@@ -1,0 +1,3864 @@
+ Single-Cell Analysis (SCA): Market Size, Segmentation, Growth, Competition and Trends (2019-2025)
+February 14th, 2023
+5th Edition
+DeciBio Consulting
+10203 Santa Monica Blvd., Ste. 400 Los Angeles, CA 90067 info@decibio.com
+  Confidential | ©2023 DeciBio. All rights reserved.
+  Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+| 2
+  DRAFT
+  Introduction
+Purchase Overview
+Thank you for your purchase of DeciBio’s Single-Cell Analysis Market Report. This report provides a historic and future-looking perspective of the single-cell analysis market from 2019 to 2025 (spatial biology is covered in our 2022 Spatial Biology Market Report). Content includes a rigorous assessment of industry market size and growth, as well as key drivers, moderators, and trends. In addition, we provide detailed segmentation by customer type, workflow, analyte, field-of-study, application, product type, and geography, providing the user with key data on individual areas of interest. This report was informed by a comprehensive primary and secondary research campaign, as well as the insights and expertise of DeciBio’s experienced consultants, who monitor, evaluate, and assess the market on an ongoing basis.
+Every purchase of our market reports comes with 1 hour of DeciBio team time, affording the customer the opportunity to have the report author present report highlights and answer questions for the licensed customer. To arrange your presentation time, please email us at rebecca.burnham@decibio.com.
+For any questions or inquiries related to custom market research or strategy consulting engagements in the single-cell analysis space (or beyond), please feel free to reach out to Miguel Edwards (edwards@decibio.com) and Alan Itakura (itakura@decibio.com).
+Disclaimer: Some of the companies listed in this report are DeciBio Consulting clients and customers.
+    |3
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  This report was authored by a DeciBio team with extensive knowledge of the single-cell analysis and broader life science research tools market
+About the Authors
+Miguel Edwards Partner | Ph.D.
+As a Partner at DeciBio, Miguel specializes in identifying industry trends in the life-science research tools and clinical diagnostics space across the entire precision medicine spectrum, from early discovery through the patient journey. Miguel has extensively researched the market for novel, disruptive diagnostic technologies, including digital biomarkers, liquid biopsies, multiomics, and single-cell platforms. Miguel has conducted >200 interviews with SC researchers / KOLs for strategy consulting cases.
+Alan Itakura
+Senior Life Science Expert | Ph.D.
+As a Senior Life Science Expert at DeciBio, Alan has overseen 150+ expert interviews with KOLs in single cell and life science research tools space. Leveraging his technical background, he has led numerous competitive intelligence and strategy projects for top players in these fields. In addition to authoring the single cell analysis report, Alan has interests in minimal residual disease monitoring and liquid biopsy.
+Rebecca Burnham Associate Product Manager | Ph.D.
+As an Associate Product Manager at DeciBio, Rebecca has authored multiple market research reports, covering a variety of topics in the life sciences space including liquid biopsy, life science research tools, and spatial biology. In addition to the market reports, Rebecca manages the MarketBooks, which tracks revenue for 100+ companies in the genomics, proteomics, and cellomics markets. Prior to DeciBio, Rebecca worked in biotech product management.
+Olivia Qiu Senior Analyst | B.A.
+As a senior analyst, Olivia has worked on projects spanning diagnostics and oncology, including pricing, competitive analysis, and market landscaping. On these projects, she has spent over 150+ hours interviewing experts in the field. Her interests include digital health, women's health, and continuing to dive deeper into the next innovations in precision medicine.
+    | 4
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+ DeciBio forecasts the WW single cell analysis (SCA) market to grow at ~13% p.a., reaching ~$1.7B by 2025
+Abstract
+The single-cell analysis (SCA) market, which is fast growing and increasingly more established, is comprised of sequencing (i.e., that assess nucleic acids such as DNA or RNA) and proteomic technologies that assess analytes at the level of single-cells, rather than at the level of an entire cell population.
+The fifth edition of this report takes a completely updated and comprehensive look at the SCA market. We assess the SCA market across 6 segments and 31 subsegments: customer (academia, biopharma, applied markets, clinical), workflow step (e.g., tissue dissociation, sample preparation, downstream analysis), analyte (e.g., RNA, DNA, epigenetic, protein, multiomic, other), field-of-study (e.g., oncology, basic cell biology, stem cell biology, microbiology, neurology, immunology, other, non-specific), product type (e.g., instruments, reagents, services, other) and geography (e.g., U.S., Europe, China, Asia-Pacific, ROW). For each of these segments, we provide an estimated market size and growth from 2019 to 2025, as well as key growth drivers and moderators.
+We review key factors driving future growth including 1) 10x Genomics driving additional applications (e.g., FFPE-compatibility) on a large and growing install base (>4,250 installs); new applications, namely multiomics approaches, are increasing utility 2) Growing utilization by biopharma, where single-cell methods are used to support drug discovery; the advent of FFPE-compatible single-cell analysis allows biopharma to tap into archived samples 3) Newer offerings targeting both low-throughput and high-throughput customers (e.g., 10x Genomics’ Chromium X/iX, Parse Biosciences’ Evercode), expanding the user base) 4) Falling sequencing costs are lowering the barrier for new users of SCA and facilitating existing users to increase their throughput / scale of experiments 5) Emerging instrument-free approaches (e.g., Parse, Fluent, Scale) are likely to attract new users to single-cell analysis. On the other hand, we discuss key factors moderating growth including 1) High assay costs and associated sequencing costs limit adoption / throughput of users 2) Potential competition with spatial-omics, another expensive research tool, might compete for spend with single-cell methods 3) Challenges in data analysis and data integration as throughput and data complexity grows 4) Limited short-term clinical applications.
+In addition, we include output from a primary research campaign across 25 single-cell researchers in academia, biopharma, and clinical settings. We capture current and anticipated spend, analyte trends (e.g., RNA, DNA, multiomics), platform acquisition trends (i.e., plans on buying additional instruments), and purchasing criteria.
+|5
+ Confidential | ©2023 DeciBio. All rights reserved.
+ The Single Cell Analysis Report is divided into the following seven sections:
+Table of Contents
+           Introduction & Methodology
+Introduction
+About the authors
+Report scoping
+Research methods and sources
+Market model methodology
+Market segments
+List of abbreviations
+List of abbreviations, cont.
+What is SCA?
+SCA applications
+WW SCA market
+10x Genomics’ SCA share
+SCA adoption life cycle
+Outlook for key competitors
+SCA workflow / players
+Challenges, trends and opportunities
+Challenges, trends and opportunities, cont.
+3
+4 5
+ Abstract
+Table of contents
+5th edition updates
+6
+7
+8
+9
+10
+11
+12
+13
+ Executive Summary
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+  Executive Summary
+Instrument-free approaches
+Droplet based preparation of single-cells for sequencing
+Key instrument-free approaches
+Annual SCS publications ‘17-’22
+SCA pubs by field-of-study
+SCA pubs by geography
+SCA pubs by analyte
+SCA vendors / pub. approaches
+Comparison of 1st commercially available SCS approaches
+24
+25
+26
+ Publication Analysis
+27
+28
+29
+30
+31
+32
+33
+ Market Analysis
+WW SCA market (‘19-’25)
+Market drivers & moderators
+Market by customer type
+Market by analyte type
+Market by field of study
+Market by workflow step
+Market by product type
+Market by geography
+34
+35
+36
+37
+38
+39
+40
+41
+42
+ Primary Market Research
+Stakeholder survey demographics
+43
+44
+  Primary Market Research
+43
+SC spend by customer type
+45
+Spend by workflow step
+46
+Spend dist. by sample type
+47
+Future platform purchase
+48
+Purchasing decision-making
+49
+SC & spatial budget dynamics
+50
+ Competitive Analysis
+51
+10x Genomics
+52
+10x Genomics (cont.)
+53
+10x Genomics (cont.)
+54
+BD
+55
+BD (cont.)
+56
+BD (cont.)
+57
+BD (cont.)
+58
+Berkeley Lights
+59
+Berkeley Lights (cont.)
+60
+Berkeley Lights (cont.)
+61
+Bio-Rad
+62
+Bio-Rad (cont.)
+63
+Cellenion
+64
+Cellenion (cont.)
+65
+Cell Microsystems
+66
+  Competitive Analysis
+51
+Cell Microsystems (cont.)
+67
+Cellsorter
+68
+DeepCell
+69
+Dolomite Bio
+70
+Dolomite Bio (cont.)
+71
+Fluent Biosciences
+72
+Fluxion Biosciences
+73
+Honeycomb Biotechnologies
+74
+Illumina
+75
+Illumina (cont.)
+76
+Illumina (cont.)
+77
+Isoplexis
+78
+Isoplexis (cont.)
+79
+Menarini Silicon Biosystems
+80
+Menarini Silicon Biosystems (cont.)
+81
+Menarini Silicon Biosystems (cont.)
+82
+MGI
+83
+MGI (cont.)
+84
+Miltenyi Biotec
+85
+Miltenyi Biotec (cont.)
+86
+Miltenyi Biotec (cont.)
+87
+  Competitive Analysis
+51
+Mission Bio
+88
+Namocell
+89
+Nanocollect
+90
+Nanostring
+91
+Nanostring (cont.)
+92
+Parse Biosciences
+93
+Qiagen
+94
+Qiagen (cont.)
+95
+Qiagen (cont.)
+96
+Singleron
+97
+Singleron (cont.)
+98
+Standard BioTools
+99
+Standard BioTools (cont.)
+100
+S2 Genomics
+101
+StemCell Technologies
+102
+Takara Bio USA
+103
+Takara Bio USA (cont.)
+104
+Takara Bio USA (cont.)
+105
+Takara Bio USA (cont.)
+106
+ Appendix
+107
+Intro to DeciBio
+108
+Dexter Expert Network
+119
+2 14
+                                                                                                                     |6
+ Confidential | ©2023 DeciBio. All rights reserved.
+ 5th Edition: This version of the SCA report has been updated to account for recent developments, expanding applications and complexity of the SCA space
+Updated Content
+• Incorporated the latest trends in the SCA market, based on interviews with experts and secondary research
+o Assessed new / current offerings and expected future portfolio developments
+o Included quotes from primary research to illustrate a variety of viewpoints and experiences
+• Highlighted new applications of SCA technology, including: o Epigenomic Technologies
+o Proteomic Technologies
+o Multiomic Technologies
+• Updated our database of SCA companies and their offerings, evaluated the latest performance data from key players (with a focus on instrument-free approaches)
+• Updated market sizing, segmentation, and forecast
+• Evaluated emerging, high-growth applications in depth, elucidating both
+quantitative and qualitative market divers, moderators, and trends
+• Developed deep-dive profiles for select key competitors
+Updated Market Numbers
+• Refined the current market model to estimate the different segments of the SCA market; triangulated the market estimates against publicly available data (e.g., from SEC filings)
+o Informed model assumptions with primary and secondary research, as well as DeciBio domain expertise
+• Assessed market sizes for each of the market segments analyzed, including:
+o Customer type (academia, pharma, clinical, applied markets) o Workflow
+o Analyte
+o Field-of-study
+o Product Type o Geography
+• Projected revenues for each market segment from current year (2023) through 2025
+|7
+ Confidential | ©2023 DeciBio. All rights reserved.
+ This report focuses on the market for single-cell analysis products; spatial biology is not included in the scope of this report
+Report Scope
+Technologies and Revenues Included
+• Single-cell analysis - the study of single cell biology, primarily using sequencing-based analysis of analytes (e.g., RNA / DNA sequencing); analysis can also include other molecular signatures (e.g., protein, epigenetic, multiomic)
+• Tissue dissociation (new to this report), sample preparation (including single cell isolation), and downstream analysis spend
+• Instrument & reagent revenues associated with the purchase of single cell analysis platforms or reagents / kits used to run the assays, and service revenues
+• Sales of products to academic, biotech / pharmaceutical companies, and CRO customers
+Source: DeciBio Analysis
+Technologies and Revenues Excluded
+• Spatial analysis tools are not accounted for in this report (e.g., 10x estimated spatial revenue is subtracted to estimate single cell revenues only)
+• Specialized bioinformatics offerings that are not provided by the SCA platform / vendor
+• Flow cytometry analysis that does not involve single cell sequencing
+  |8
+ Confidential | ©2023 DeciBio. All rights reserved.
+ The quantitative and qualitative analyses were informed by extensive secondary research and 25 interviews with single-cell genomics stakeholders
+Research Methods
+Primary Research
+Secondary Research
+• DeciBio reviewed SEC filings, conference abstracts, publications, clinical trials, earnings call transcripts, press releases, funding databases, company websites, and more to capture information about assays, technologies, company roadmaps / strategies, revenues, growth projections, market trends, etc.
+Proprietary Databases / Analysis
+   N = 25
+N = 25
+    EU
+  U.S.
+Com. Hosp.
+Pharma
+ AMC
+ Geography
+Setting
+• DeciBio conducted 25 interviews with various single-cell analysis stakeholders across the U.S. and EU to assess current and expected future utilization of single-cell analysis and understand preferences by technology and vendor
+• DeciBio leveraged proprietary internal databases and tools, as well as our domain expertise in single cell analysis, to inform quantitative and qualitative market perspectives and trends
+|9
+ Confidential | ©2023 DeciBio. All rights reserved.
+ A top-down model was built to estimate the various segments of the SCA market; this model was triangulated against known figures
+Model: Top-Down from Key Player Revenues; High-Level Structure / Inputs
+ Company X Revenues Company X Revenues
+x
+x
+Product Dist. % Instruments % Reagents % Services % Other
+• Company revenues, segmentations, and near-term growth projections were collected from company filings and investor materials (for public companies)
+o For private companies and segmentations that aren’t publicly broken out, secondary research (e.g., publication / abstract analysis) and proxies were used to make assumptions
+• This top-down model was completed for 8 of the companies expected to be market leaders (e.g., 10x Genomics, Illumina, Takara, Mission Bio, BD, Bio- Rad, Standard BioTools, Qiagen)
+• This model was used to inform primarily the current and near- term market
+ Company X Revenues % Single-cell
+Projected Change Projected Change
+Analyte Dist. % DNA
+% RNA
+% Epigenetics % Protein % Multiomics % Other
+        Workflow Dist. % Tissue Diss. % Cell Isolation % Sample Prep. % Analysis
+Tx Area Dist. % Basic Cell Bio % Oncology % Immunology % Microbiology % Neurology % Stem Cell Bio % Other
+% Non-specific
+x
+Projected Change
+Customer Dist. % Academia % Biopharma % App. Markets % Clinical
+Geography Dist. % U.S.
+% Europe
+% China
+% APAC
+% Others
+                                $ value input / assumption
+% value input / assumption
+Estimated change 2019-25
+ |10
+ Confidential | ©2023 DeciBio. All rights reserved.
+  We divided the market into the following 7 key segmentations:
+Model Framework
+     Segment
+Description
+Subsegments
+Customer
+Buyers of SCA instruments, reagents, and consumables from manufacturers
+• Academia New addition • Applied markets*
+• Biopharma to this report • Clinical
+  • Tissue Dissociation
+• Sample preparation
+• Downstream analysis
+Workflow
+Individual steps in the SCA process starting from sample and ending with data
+Analyte
+Application / analyte that is detected
+• RNA
+• DNA
+• Epigenetic
+• Protein
+• Multiomic • Other
+Field-of-Study
+Research focus including broad non- disease specific biological area as well as specific disease areas
+• Microbiology
+• Basic cell biology
+• Stem cell biology • Neurology
+• Oncology
+• Immunology • Other
+• Non-specific
+Product Type
+Type of product that manufacturer sells to its customers
+• Instruments (including systems, service contract and software)
+• Services
+• Reagents (including reagents and consumables)
+• Other
+Geography
+Country / region of the world
+• U.S.
+• Europe
+• China
+• Asia Pacific (APAC)
+• Rest-of-the-world (ROW)
+          Note: * Including AgBio, food safety, animal health, and environmental testing Source: DeciBio Analysis
+|11
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+ Abbreviations used in this report (1 / 2)
+Index of Abbreviations (1 of 2)
+     Term
+ Definition
+ AGBT
+Advances in Genome Biology and Technology
+AI
+Artificial Intelligence
+AMC
+Academic Medical Center
+APAC
+Asia Pacific Region
+App.
+Applied
+ATAC
+Assay for Transposase- Accessible Chromatin
+ATAC- Seq
+Sequencing Assay for Transposase-Accessible Chromatin
+BCR
+B-cell Receptor
+BGI
+Beijing Genomics Institute
+BioX
+Bioinformatics
+BS-Seq
+Bisulfite Sequencing
+ CAGR
+Compound Annual Growth Rate
+Term
+ Definition
+ CAR-T
+Chimeric Antigen Receptor T-cells
+cDNA
+Complementary DNA
+CDx
+Companion Diagnostics
+CE*
+Conformité Européenne
+CE-IVD**
+CE-Approved In Vitro Diagnostic
+CFR
+ Code of Federal Regulations
+ChIP-Seq
+Chromatin Immuno- Precipitation Sequencing
+CITE-Seq
+ Cellular Indexing of Transcriptomes + Epitopes
+CNA(s)
+Copy Number Alteration(s)
+CNV(s)
+Copy Number Variant(s)
+ CRISPR
+Clustered Regularly Interspaced Short Palindromic Repeats
+Term
+ Definition
+ CRO(s)
+ Contract Research Organization(s)
+ CROP- Seq
+CRISPR Droplet Sequencing
+CTC(s)
+Circulating Tumor Cell(s)
+ ddPCR
+Droplet Digital Polymerase Chain Reaction
+Diss.
+Dissection
+Dist.
+ Distribution
+DNA
+Deoxyribonucleic Acid
+DNA-Seq
+DNA Sequencing
+ dPCR
+Digital Polymerase Chain Reaction
+Drop-Seq^
+Droplet Sequencing
+Dx
+Diagnostic
+EU
+European Union
+Term
+ Definition
+ FFPE
+ Formalin-Fixed Paraffin- Embedded
+ FDA
+ Food and Drug Administration
+FTE
+Full-Time Equivalent
+GFP
+ Green Fluorescent Protein
+IgG
+Immunoglobulin G
+IHC
+Immunohistochemistry
+IND
+Investigational New Drug
+Indel(s)^^
+Insertion(s) / Deletion(s)
+IPO
+Initial Public Offering
+ISH
+In Situ Hybridization
+IVD
+In-Vitro Diagnostics
+KOL
+Key Opinion Leader
+LBx
+Liquid Biopsy
+Term
+ Definition
+LCM
+Laser Capture Microdissection
+LC-MS
+Liquid Chromatography– Mass Spectrometry
+ LDT(s)
+Laboratory Developed Test(s)
+lncRNA
+Long Noncoding RNA
+ MDA
+Multiple Displacement Amplification
+MRD
+Minimal Residual Disease
+mRNA
+Messenger RNA
+MS
+Mass Spectrometry
+ NGS
+Next Generation Sequencing
+NIH
+National Institute of Health
+ OCT
+Optimal Cutting T emperature
+     Note: * CE marking certifies that a product has met EU health, safety, and environmental requirements, which ensure consumer safety; ** CE marking is required for all in vitro diagnostic (IVD) devices sold in Europe; ^ Drop-Seq analyzes mRNA transcripts from droplets of individual cells in a highly parallel fashion; ^^ Insertion or deletion of bases in the genome
+Source: DeciBio Analysis
+|
+12
+ Confidential | ©2023 DeciBio. All rights reserved.
+ Abbreviations used in this report (2 / 2)
+Index of Abbreviations (2 of 2)
+     Term
+ Definition
+p.a.
+Per Annum
+ PCR
+ Polymerase Chain Reaction
+PFA
+Paraformaldehyde
+PGD
+Pre-Implantation Genetic Diagnosis
+PGS
+Pre-Implantation Genetic Screening
+Prep.
+Preparation
+QC
+Quality Control
+qPCR
+Quantitative PCR
+R&D
+Research & Development
+ REAP- Seq
+RNA Expression and Protein Sequencing
+RNA
+Ribonucleic Acid
+ RNA- Seq
+RNA Sequencing
+Term
+ Definition
+ROW
+Rest of the World
+rRNA
+Ribosomal RNA
+RT
+Reverse Transcription
+ RT- PCR
+Reverse Transcription PCR
+RWD
+Real World Data
+SBS
+Sodium Bisulfite Solution
+ SBIR
+Small Business Innovation Research
+SC
+Single Cell
+SCA
+Single-Cell Analysis
+sc- ATAC- seq
+Single-Cell Sequencing Assay for Transposase- Accessible Chromatin
+sc- ChaRM -seq
+Single-Cell Chromatin Accessibility, RNA Barcoding, and DNA Methylation Sequencing
+Term
+ Definition
+scDNA
+Single-Cell DNA
+SCG
+ Single-Cell Genomics
+ scM&T- seq
+Single-Cell Methylome & Transcriptome Seq.
+SCS
+Single-Cell Sequencing
+scRNA
+Single-Cell RNA
+ scRNA- seq
+Single-Cell RNA Sequencing
+scTCR
+Single-Cell T-cell Receptor
+ scWGS
+Single-Cell Whole Genome Sequencing
+SEC
+Securities and Exchange Commission
+SNP
+Single-Nucleotide Polymorphism
+SNV(s)
+Single-Nucleotide Variation(s)
+Term
+ Definition
+SSC
+ Side Scatter
+TAT
+Turnaround Time
+TCR
+ T-cell Receptor
+TGen
+Translational Genomics Research Institute
+Tx
+Therapy / Therapeutic
+UAE
+United Arab Emirates
+UCLA
+University of California, Los Angeles
+UK
+United Kingdom
+UMI(s)
+Unique Molecular Indices
+ U.S.
+United States
+Term
+ Definition
+VDJ*
+Variability, Diversity, Joining
+WES
+Whole Exome Sequencing
+WGA
+Whole Genome Amplification / Analysis
+WTA
+Whole Transcriptome Amplification / Analysis
+WW
+ Worldwide
+  Note: * VDJ rearrangement has 4 key characteristics that help ensure that each antigen receptor is unique Source: DeciBio Analysis
+|
+13
+ Confidential | ©2023 DeciBio. All rights reserved.
+  Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+|14
+  DRAFT
+ Single-cell analysis (SCA) enables the assessment of the nucleic acid and / or protein content of individual cells, as opposed to cell populations
+What is Single Cell Analysis?
+• Single-cell analysis (SCA) is a fast growing and increasingly more established approach in which genomics and / or proteomics is applied at the level of single-cells, rather than the level of an entire population of cells
+“... If you were to look at the average cell color of 100 people in a room, it’d be grey, although nobody has grey eyes...”
+- Former CEO, Single Cell Company
+• The SCA approach is uniquely positioned to revolutionize biology by shedding light on cellular heterogeneity, which has important implications for disease
+• Studies so far have already provided important insights; recent technical advances continue to facilitate increasing study sizes / growth in this field
+• SCA has been an enabling one in several key therapeutic areas including:
+o Oncology / Immuno-Oncology o Immunology
+o Neurology
+Single Cell Readouts
+Individual Expression Profiles for Each Cell
+Bulk Readouts
+One Expression Profile for All Cells
+         Source:
+o Microbiology
+o Stem Cell Biology
+DeciBio Analysis
+|15
+Confidential | ©2023 DeciBio. All rights reserved.
+  SCA has expanded beyond transcriptomics and genomics in recent years; adoption is early across SC proteomic and multiomic technologies
+Single Cell Analysis Applications
+Single Cell Transcriptomics & Genomics
+• Approaches that sequence DNA, RNA or epigenetic markers at the single cell level
+• As the first approach used for SCA, SCG has the highest market maturity
+o scRNA-seq is commonly used amongst research / biopharma today
+o Interest grows in new SC sequencing modalities such as DNA, epigenetics and multiomics
+• User base continues to expand as sequencing costs fall and new instruments / approaches are validated / commercialized
+Single Cell Proteomics
+• Approaches that measure protein signatures at the single cell level*
+Low* (<10%) Level of Market Maturity (‘22) High (>80%)* Single Cell Multiomics
+• Approaches that measure multiple analytes at a time (i.e., two genomic markers or genomic and proteomic markers)
+o Examples include: 10x Genomics’ Multiome ATAC + Gene Expression assays, BD’s AbSeq Assay
+• Multiomic assays typically measure DNA / RNA and another analyte, providing an unparalleled ability to explore cellular diversity and heterogeneity
+         o
+Examples include: Cellenion’s proteoCHIP, IsoPlexis’ IsoCode chips
+• Though relatively new, excitement surrounds the SC proteomics space as users look to validate genomic data with insights into cell functionality
+• Adoption of these technologies are relatively low, as they are more costly than nucleic acid analysis and are less robust to analyze
+ The SCA market is an established market, with significant growth / penetration expected in the next 5 to 10 years across all key applications
+Note: *Excludes flow cytometry Source: DeciBio Analysis
+|
+16
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  DeciBio estimates that the worldwide SCA market reached ~$1.2B in 2022 and is expected to grow at 13% p.a. to reach ~$1.7B in 2025
+WW SCA Market (2019 - 2025)
+$M
+$2,000 $1,500 $1,000
+$500
+$1.7B
+~$200M
+~$1.5B
+CAGR
+(’19 -’22) (’22 -’25) (’19-’25) 25% 13% 19%
+w/o Tissue Dissociation Tissue Dissociation
+$1.2B
+$0.6B
+New to the 2023 report is the inclusion $- of tissue dissociation market
+Key drivers:
++ 10x Genomics driving additional applications (e.g., FFPE-compatibility) on a large and growing install base (~4,250 installs*); new applications, namely multiomics approaches, are increasing utility
++ Growth in biopharma utilization, where single-cell methods are used to support drug discovery; the advent of FFPE-compatible single-cell analysis allows biopharma to tap into archived samples
++ Newerofferingstargetingbothlow-throughputandhigh-throughputcustomers(e.g.,10xGenomics’Chromium X/iX, Parse Biosciences’ Evercode) are expanding the user base
++ FallingsequencingcostsareloweringthebarrierfornewusersofSCAandallowingexistinguserstoincrease their throughput / scale of experiments
+Key moderators:
+− High assay costs and associated sequencing costs limit adoption / throughput of users
+− Spatial-omics, another expensive research tool, might compete for spend with single-cell methods
+− Emerginginstrument-freeapproaches(e.g.,Parse,Fluent,Scale)mightpushthemarkettowardslesscapital- intensive approaches / commoditization
+− Challenges in data analysis and data integration as throughput and data complexity grows − Limitedshort-termclinicalapplications(thoughcelltherapyregulationscouldshiftthis)
+           Note: Source:
+* 10x Investor Day Presentation, December 8th, 2022 DeciBio Interviews and Analysis
+|
+17
+2019 2022
+2025
+ Moving Forward: Single-cell analysis continues to prove its worth as an essential research tool, with the market growing to ~$1.7B by 2025. Drivers include growing applications, more utilization by biopharma, and offerings targeting new customers. The market is moderated by high costs limiting adoption, potential competition with spatial-omics, and box-less approaches that could result in pricing pressure limiting growth
+  Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+ Workflow / Analysis
+• Willing to create ad hoc workflows / build analysis • pipelines
+Applications & questions enabled by new technologies
+Focused on identifying technologies that can address a specific application
+Enabled by turnkey solutions / bundled analysis offerings
+Moderate
+(interested in robust and validated technologies)
+Level of • Sophistication
+High • (rapidly shifting to the latest tech [e.g., NGS, dPCR])
+Innovators (2.5%)
+Note: * Peak market opportunity may vary widely Source: DeciBio Interviews and Analysis
+|
+18
+Confidential | ©2023 DeciBio. All rights reserved.
+Early Adopters (13.5%)
+$100M-1B
+New technology • Willing to identify applications •
+best suited to a technology
+Early Majority (34%)
+$1B-$3B
+Late Majority (34%)
+Laggards (16%)
+DRAFT
+SCA has “crossed the chasm” as an established, regularly-used research tool; new applications and turnkey solutions are expanding the market
+Single-Cell Analysis Adoption Life Cycle
+Customer Archetype & Share
+Market Opportunity*
+Focus • Application •
+Current Market (17-20% penetrated)
+Chasm
+$3B-6B+
+ 10x is well-positioned given its large installed base and streamlined workflow; box-less approaches hold promise given their cost advantage
+Outlook for Key SCA Competitors
+         Companies to Watch
+10x is very well-positioned in the SCA market going forward due to a broad install base, expanding applications, (e.g., FFPE- compatible kits, entry-friendly platforms), and new offerings targeting new users
+BD has had minor success with their Rhapsody platform; they trail 10x Genomics in market share / install base, leaving them in a weak position; BD’s new HT multiomics platform could improve positioning going forward
+Box-less approaches could prove to be disruptive to the market if their differentiators hold true / valuable (e.g., capital-free, equal / superior technical performance); 2023 / 2024 will prove telling regarding their trajectory
+Bio-Rad is poorly-positioned going forward; offerings have not meaningfully competed w/ 10x’s, leaving them with a small install base to leverage; in Jan ’23, announced their plan to launch SCA platform by EOY** – could improve their market positioning
+Outlook^: Favorable Unfavorable
+Mission Bio is well-positioned due to its success as a go-to solution for scDNA, but is moderated by the fewer applications of scDNA; multiomics applications, particularly for C&GT*, offers Mission Bio some upside
+Takara has had limited success with their SMART-seq technology; their limited installed base and lack of differentiation / innovations leave them in a difficult position in the market
+       Companies with Headwinds
+Note: Source:
+*Cell and Gene Therapy; **This likely stems from Bio-Rad’s 2020 acquisition of Celsee. This new platform will leverage Bio-Rad’s strength in ddPCR; ^ A mix of size and growth potential DeciBio Interviews and Analysis
+|
+19
+ ©2022 DeciBio. All rights reserved.
+  Several companies play across SC workflow; 10x success has competitors + potential entrants looking to participate
+Single-Cell Workflow and Key Competitors*
+  Tissue
+Tissue Cell Single-Cell Sample Prep Dissociation Suspension Isolation (e.g., NGS library prep)
+(Varies by starting sample type)
+Downstream Analysis (e.g., NGS, d/qPCR)
+Bioinformatics (e.g., mapping NGS reads)
+Key:
+Revenues Included in this report
+Included in competitive analysis
+                                                                                                                                   Note:
+Source:
+* Not exhaustive; Celsee acquired by Bio-Rad April 2020; Transnetyx acquired BrainBits in 2021; Avantor acquired VWR in 2017; Fluidigm is now Standard BioTools as of April 2022; Namocell a part of Bio- Techne
+DeciBio Interviews and Analysis
+|20
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Challenges that limit the ease of adoption of new / low-throughput users represent the greatest opportunity for competitors
+SCA Challenges, Trends, and Opportunities (1 of 2)
+ Level of opportunity:
+Low
+Moderate High
+       Challenge
+Trends
+Opportunity for Market Participants
+Inaccessible Sample / Tissue Types
+• Some cell types remain relatively inaccessible with commercial tissue dissociation kits
+• Some sample types (e.g., FFPE) are abundant but are not always compatible with SCA workflows
+• Develop new methods of tissue dissociation that are applicable to historically-difficult to dissociate tissue (e.g., brain tissue)
+• Develop FFPE-compatible kits (e.g., 10x’s FFPE compatible kits)
+Costly / Cumbersome Instrumentation
+• Instrument cost is often cited as a key decision factor, with high costs of instrumentation limiting new users / preventing users from switching
+• New users / occasional users are driven away by the high start-up costs
+(e.g., capital costs, large kit costs)
+• New technology / kits are not compatible with older instruments
+• Develop approaches that do not rely on instrumentation (e.g., Parse, Fluent, Singleron)
+• Provide SCA services, allowing customers to avoid any capital costs
+• Develop modular offerings that can scale from low to high-throughput experiments (e.g., 10x Genomic’s X series)
+Complexity of Data Analysis
+• Shift towards sequencing and multiomics will lead to generation of large SCA datasets, driving the need for data analysis tools
+• SCA is becoming more available to those who are not necessarily familiar with NGS and would appreciate straightforward data analysis tools
+• Develop easy-to-use systems that can store, manipulate, and analyze large data sets (including multiomics)
+• Develop new bioinformatics algorithms to glean meaningful biologic insights from large data sets
+Sequencing Costs
+• Single cell analysis is accompanied by significant levels of sequencing, driving up costs
+• Develop probe-based targeted sequencing, thus reducing the sequencing amount to probes (rather than sequencing whole transcripts)
+Difficulty of Scaling
+• Sample throughput of SCA approaches has increased, but checkpoints during sample preparation are not stable, making scaling difficult (e.g., when samples are not collected at all at once) and introducing batch effects that can be difficult to correct
+• Develop methods for cells to be fixed and stored, allowing for samples collected at different times to be analyzed together
+           Source: DeciBio Interviews and Analysis
+|21
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Technical challenges to SCA have improved in the past 2-3 years, but are areas where improvement can provide a competitive edge
+SCA Challenges, Trends, and Opportunities (2 of 2)
+ Level of opportunity:
+Low
+Moderate High
+       Challenge
+Trends
+Opportunity for Market Participants
+ Cell Capture Efficiency
+• Droplet techniques still result in an insignificant number of cells (10x Genomics capture efficiency ~65%+)
+ • Develop higher capture efficiency approaches
+Loss of Genomic Fidelity / Poor Sensitivity
+• Currently existing RNA / DNA-seq techniques have drawbacks due to technical artifacts, high sequence dropout rates, and limited sensitivity
+• Single-cell analysis is being extended to whole-genome sequencing and methylation sequencing, which are more prone to error
+• Develop new reagents / protocols to:
+o Lysecellswithlimitedcontamination
+o Capture&amplifyRNA/DNAwithlimitedloss o AmplifyRNA/DNAwithlimitedbias
+Low Throughput
+• Many new platforms are equipped to process up to tens of thousands of cells per experiment
+• Increase the throughput of cell isolation technologies (1M-10M cells), especially for tissue-based samples
+Labor Intensive Workflow
+• Existing platforms claim simplified workflows, but still require off instrument sample preparation (e.g., NGS library preparation (7-8 hours of technician work) until recently – 10x Genomics developed Chromium Connect)
+• Develop new systems that can integrate the workflow steps to enable end-to-end analysis (e.g., 10X Chromium + Chromium Connect)
+Key Multiomic Applications Lacking
+• Multiomic single cell analysis has been a key driver in growth, but some key analyses are still lacking (namely DNA + RNA single-cell analysis)
+• Develop a technology that can perform DNA + RNA analysis in parallel
+ Clinical Applications
+• The emerging second-generation platforms that enable molecular characterization of CTCs are driving CTC research
+• Cell and gene therapies (e.g., CAR-T) will likely require single-cell approaches for characterization and QC
+ • Identify CTC cell-based diagnostics for use in disease diagnosis, therapy selection and therapy monitoring
+• Develop diagnostic platforms to identify viable embryos for implantation after in vitro fertilization
+• Develop workflows for cell and gene therapy characterization and QC
+           Source: DeciBio Interviews and Analysis
+|22
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Box-less approaches could unlock “early majority” customers, promising greater tech specs for cheaper (at the cost of less streamlined workflow)
+   Overview of Instrument-Free Approaches
+Parse Bio was sued by 10x for patent infringement; it is unclear how / if this will impact their trajectory
+• Instrument-free approaches are distributable, avoid the capital costs of hardware, and offer potential technical advantages (e.g., sensitivity, scalability)
+• Emerging instrument-free approaches are positioned as modular, scalable solutions that can reach higher numbers of cells (up to ~1M) at lower costs without compromising on sensitivity (some new entrants claim higher sensitivity as well)
+• Instrument-free approaches are attractive to new entrants to the SC space; existing users that have committed to an instrument are relatively entrenched due to upfront capital investment, but some conversion is likely to occur
+• Instrument-free offerings lack the ‘ecosystem’ and workflow simplicity that 10x has created with a broad portfolio (e.g., multiomics offerings, VDJ-sequencing, open-source bioinformatics) but some companies have public plans to expand their portfolio
+• Historically, single-cell users have expressed concern about quality of data and complex workflow of initial versions on the market
+Source: DeciBio Interviews and Analysis
+Spotlight: Parse Biosciences
+• Parse is the most prominent instrument-free approach on the market, leveraging combinatorial barcoding to increase cell throughput without hardware
+• They have 3 product lines (WT for RNA-seq, TCR for T-cell receptor profiling, and Gene Capture for targeted analysis) for single-cell whole transcriptome profiling at different scales
+• Recently released v2 of their scRNA technology in Oct 2022, along with tech notes comparing it to 10x’s approach
+• Their current offerings are only for probe-based whole transcriptome approaches, but they have already announced plans for an ATAC-seq assay and immune- cell receptor profiling kits
+• Other key competitors include Fluent Bio, Singleron,
+Scale Biosciences, CS Genetics
+Moving Forward: Instrument-free approaches are currently nascent in the SCA market; should they meet the technical standards of existing methods, they could become a key part of the SCA market in the near-term; 2023 will be a telling year for the market
+  |23
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  10x’s technology uses microfluidics to create droplets; other approaches to single cell partitioning are being commercialized
+Key Methods for Single Cell Partitioning
+   Primer containing beads
+Cell
+10x Genomics
+Oil
+Droplet with cells + bead
+10x Genomics’ technology leverages microfluidics to form droplets that contain single- cells with beads that contain primers & can be uniquely identified (i.e., barcoded, similar in principle to Drop-seq and inDrop)1. Unique identification allows for library preparation in a single pooled reaction.
+This approach dramatically increased throughput, lowered costs of SCA, and was the basis of 10x Genomics’ successful commercialization of SCA.
+Microwell partitioning2
+Particle templated emulsification4
+Singleron’s SCOPE-chip contains hundreds of thousands of microwells, each able to capture individual cells. Cells are diluted then distributed into microwells**. Beads containing a unique barcode are added to each well, followed by library preparation. A similar principal enables BD’s Rhapsody platform.
+Other Methods to Single Cell Partitioning and Sequencing*
+    In-cell reverse transcription & combinatorial barcoding3
+Parse Biosciences leverages a fixing protocol that allows cells to act as a compartment for barcoding (i.e., in-cell reverse transcription). Combinatorial barcoding parallelizes identification of hundreds of thousands of individual cells. Parse Bioscience’s SPLiT-Seq combines these two approaches to allow for high-throughput partitioning and barcoding of single cells.
+ Note:
+microwells with single cells; 1: Image adapted from doi: 10.1016/j.cell.2015.05.002; 2: Image adapted from Singleron.bio; 3: Image adapted from parsebiociences.com; 4: Image from doi: 10:1101/2022.06.10.485582 Source: DeciBio Interviews and Analysis
+* Not comprehensive; ** Microwells are seeded with an average of 1 cell per well, cells are distributed by empirically calculating the optimal cell concentration and volume to obtain the highest number of
+|24
+Fluent Biosciences’ PIP-seq utilizes particle-templated instant partitions (PIPs), which are water-in-oil droplets containing barcoded beads and lysis reagents. Cells are mixed with a slurry of PIPs, with each PIP capturing up to 1 cell. Cells are lysed in each PIP, allowing mRNA to be captured by the barcoded bead, from which library prep occurs.
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Parse Biosciences is the most prominent of instrument-free approaches, comparing favorably to equivalent 10x Genomics offerings
+Comparison of Key SCA Approaches
+Numbers provided serve as rough benchmarks; performance and costs will vary by experiment
+             Platforms / Kit
+• Chromium X Series; Fixed RNA Profiling Kit
+• Evercode Whole Transcriptome v2 WT Mega
+• Fluent Biosciences PIPseq T100 3’ scRNA
+Release Date
+• X Series in 2021; Fixed RNA Kit in 2022
+• v1 in Feb 2021, v2 in 2022
+• v4 in Jan 2023
+Technology
+• Droplet-based technology (Next GEM)
+• Fixed RNA Profiling must be performed on
+the X series
+• Split pool combinatorial barcoding technology converts each cell or nucleus into an individual reaction compartment
+• No instrument needed
+• Template particles are mixed with cells to create ‘Pre-templated Instant Partitions’ (PIPs), where cells are then lysed and mRNA is captured
+• No dedicated instrumentation needed
+Doublet Rate
+• ~3.2% / 6,000 cells1
+• 1.7% / 100k cells
+• <5% / 100k cells
+Capture Efficiency
+• ~60%1
+• ~50%
+• ~85%
+Key Features
+• Probe-based technology (other kits provide 5’ or 3’ sequencing solutions)
+• Allows samples to be multiplexed, up to 16 samples and 120k cells in one reaction1
+• Works with fresh fixed cells / nuclei; only compatible with their fixation chemistry; probe-based technology
+• Up to 1M cells and 96 samples, but can be divided depending on experimental design
+• True sequencing technology (comparable to 10x’s Single-cell 3’ solution)
+• Downstream steps (library prep, sequencing) can be sent to service lab
+  Instrument
+• $65k - 99k for the X Series*;
+• None
+• None
+Reagents
+• ~$390 / sample^, ~$0.03 per cell
+• ~$250 / sample, ~$0.017 per cell
+• ~$3,200 / sample, ~$0.032 per cell^
+ Time Requirement
+• 7.5-hour workflow (over / up to 2 days)
+• 7.5-hour hands-on time over 2-3 days
+• ~2 days
+            Notes: *List price from 10x Genomics Store, includes warranties; ** Based on the Chromium Fixed RNA Kit, 16 reactions x16 barcodes; ^Pricing here is for Fluent’s v3 chemistry Source: DeciBio Interviews and Analysis; 1: Chromium Fixed RNA Profiling Reagent Kits for Multiplexed Samples User Guide
+|
+25
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+Cost
+  Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+|26
+  DRAFT
+  We categorized 4,000+ publications in SCA from 2017-2022, identifying key trends in various subsegments
+Annual SCA Publications (‘17-’22)
+ 3,500 3,000 2,500 2,000 1,500 1,000
+500 -
+Single-cell multimodal omics named Nature Method’s method oftheyear
+CAGR (’17 -’22)
+37%
+• Pre‘17:SinglecellsequencingwasnamedtheNaturemethodoftheyearin2013;even then, it was clear that single cell sequencing was poised to have a significant impact; Fluidigm trailblazes commercializing single-cell sequencing, integrating multiple steps into a simpler workflow (e.g., the C1 and Biomark); high-throughput methods have yet to emerge
+• ’17-’19:10xGenomics’Chromiumsystemdramaticallyimprovesworkflowandthroughput; single cell sequencing and analsysi moves beyond a specialized tool and is adopted in multiple fields of study; costs (including sequencing costs) decrease, increasing accessibility
+'17
+'18 '19
+'20 '21
+'22
+•
+‘20-’22: SCS continues to be adopted more broadly in all fields of research; applications beyond RNA sequencing become increasingly commercialized and accessible, adding new dimensions of information to SCS research; similarly, multiomics approaches become more common; targeted approaches and increasing throughput continue to drive costs down
+ Limitations
+Publications are a representation of work that has been done in the years prior to the publication date and thus is considered a lagging indicator. In addition, publications better represent academia; biopharma, clinical, and applied markets publish less regularly. Publications also do not account for spend per paper. As emerging fields become more prominent and existing labs continue to publish in the same field, there is an increased likelihood the search terms DeciBio used are not listed in either the abstract or keywords. PubMed’s algorithm only searches within the abstract and key words section allowing the possibility that some publications may be excluded. Because of the growing number of publications, we took a random sample of ~300 open-source publications for the years 2020-2022, extrapolating the trends to the broader publication data base.
+  Source:
+DeciBio Interviews and Analysis
+|27
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Oncology and immunology represent key SCA application areas, constituting ~35% of publications in 2022
+SCA Publications By Field-of-Study
+  3,500 3,000 2,500 2,000 1,500 1,000
+500 -
+Note: Source:
+N/A
+Other Microbiology Neurology
+Stem cell biology Basic cell biology Immunology Oncology
+Oncology: SCA has become a standard tool in oncology research due to its high utility in characterizing
+cancer biology; within oncology, SCA has facilitated research aimed at improving cancer diagnosis / subtyping, 37% targeted therapies, and predicting response / outcomes; oncology likely to continue representing the largest
+therapeutic segment (excluding N/A)
+CAGR • (’17 -’22)
+ 37%
+• Basic cell biology: Basic cell biology represents a slower growing segment (26%); SCA has broad utility here, but these segments do not attract as much funding as other segments; CRISPR-powered screens could represent a key driver of growth here in the near-term
+45% • 15% 42%
+Stem cell biology: SCA is uniquely powered in stem cell biology where it can identify rare populations of stem cells and characterize heterogeneity during development
+ 68% 39%
+26% 41%
+• Immunology:SCAresearchoverlapswithoncologyresearch;hereitsutilityisincharacterizingthetumor microenvironment and heterogeneity of immunotherapy response; SCA is also used to understand immune system behaviors (e.g., in response to COVID-19 infection); this is the most rapidly growing segment of publications (~68% p.a.)
+• Other: SCA techniques are being leveraged across various other fields of research, including neurology, microbiology, infectious disease, and plant biology; neurology is among the fastest growing therapeutic segments (excluding N/A)
+• N/A:Includesnewmethodsandinformaticstools;giventhedelugeofsequencinginformationandtheever- growing number of SCA methods, new BioX* tools / approaches are a major contributor to this segment
+ '17
+'18
+'19
+'20
+'21
+'22
+* Bioinformatics
+DeciBio Interviews and Analysis
+|
+28
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  U.S. and Europe continue to account for the majority of SCS publications; China continues to grow rapidly, but is impacted by geo-political factors
+SCS Publications By Geography
+ 3,500 3,000 2,500 2,000 1,500 1,000
+500 -
+Source:
+ROW APAC China Europe US
+CAGR (’17 -’22)
+37%
+35% 37%
+40% 32%
+39%
+• U.S.: responsible for ~46% of papers published in ‘22; growing faster than overall market, ~39% o The U.S. is often the first market for adoption of cutting-edge technology and is expected to continue
+to account for the largest share of publications
+ '17
+'18 '19
+'20 '21 '22
+• APAC (excluding China, including Japan): accounts for ~5% of publications in 2022, growing at 37% p.a.
+o India is expected to be the primary growth driver as they expand sequencing capabilities o Flat economic growth in Japan will moderate the number of APAC publications
+• ROW: accounts for <10% of publications, growing at ~35% p.a. from ‘17-’22
+• Europe: accounts for ~27% of publications in 2022, with growth lagging behind the overall CAGR (32% and 37%, respectively)
+o Economic turbulence in Europe (namely the UK) could be slowing adoption of SCA methods
+• China: accounts for ~12% of pubs in 2022, continues to grow faster (~40%) than overall CAGR
+o Starting from a small base in ‘17, the number of publications in China has grown rapidly, but strict COVID-19 lockdown policies contributed to a dip in growth from ‘21 to ’22; recent updates to lockdown policies could lead to change in the near future
+ DeciBio Interviews and Analysis
+|29
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  RNA is the primary analyte for SCA, given its utility to reflect different cell states; DNA and multiomics are the next most common analytes
+SCA Publications By Analyte*
+ 3,500
+Other
+CAGR (’17 -’22)
+37%
+3% 33% 41% 23%
+35%
+•
+•
+•
+• •
+RNA: Transcriptomics was by far the most common analyte assessed in publications, accounting for more than 85% of publications analyzed; the abundance of transcriptomic approaches reflects its broad utility in research; 10x’s Chromium was the most commonly used platform for transcriptomics, with some publications utilizing Smart-Seq2 (a common open- source protocol)
+DNA: DNA was the second most common analyte, comprising of ~6% of publications in 2022; research topics here included microbial diversity, cancer evolution, and DNA damage / repair; MissionBio, Qiagen, and open-source protocols were commonly used for DNA analysis
+Multiomics:Multiomicsapproachesaccountedfor~5%ofpublicationsanalyzed;oncology- related research topics are predominant, with development / stem cell related research being the next most common; 10x is fairly-well utilized for RNA / epigenetic signature analyses, with Mission Bio’s DNA / protein multiomics approaches being next abundant
+Epigenetics:Epigeneticsignatures(primarilyviaATAC-seq)accountfor<5%ofpublications; 10x’s ATAC-seq tech along with open-source protocols were predominant here
+Other: Other includes primarily protein signatures; these seem to be rather infrequently analyzed alone, but more often as a part of a multiomic approach with DNA / RNA analyzed
+Epigenetics 3,000 Multiomics
+DNA 2,500 RNA
+2,000 1,500 1,000
+500 -
+  2020
+2021 2022
+Note: * Publications were categorized by analyte only for 2020-2022, replacing technology (e.g., ddPCR / NGS ) which was used in the previous iterations of this report. Because we are not characterizing the whole literature base, trends here are directional.
+Source: DeciBio Interviews and Analysis
+|
+30
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  10x Genomics is the most common approach to conduct SCA; open-source protocols are relatively common, while other competitors were rare
+SCA Vendors / Approaches in Publications
+Utilization
+ Academic / Open-Source
+Smart-Seq2, MARS-Seq, CEL-Seq2, scM&T-Seq, STRT-Seq, scCOOL-Seq
+~75% ~15%
+Other Competitors
+<10%
+• All other competitors were used in less than 10% of publications analyzed, reflecting that many of these companies (e.g., Takara, BD, Qiagen), have not significantly detracted form 10x’s market share
+• Box-less approaches were largely absent (except for Singleron) likely due the nascency of adoption these markets have and the lag time of publications
+              •
+•
+10x Genomics was utilized in ~75% of • publications between 2020-2022, reflecting
+their unrivaled market dominance
+We did record a modest decline (~5%) in the • number of publications utilizing 10x
+Genomics from 2020-2022, but it is unclear
+if this a meaningful trend or noise from our approach
+Open-source protocols were used in ~15% of publications, with Smart-Seq2 being the most abundant approach
+Utilization of open-source protocols reflect a need of academic expert users for high customizability and a high capability for involved-protocols
+ Source:
+DeciBio Interviews and Analysis
+|31
+Confidential | ©2023 DeciBio. All rights reserved.
+• Publication analyses will skew heavily academic; based on our expert interviews, biopharma are likely to use vendors
+DRAFT
+% of Vendor / Commentary Pubs Approach
+  10x Genomics and Bio-Rad commercialized the first high-throughput, droplet-based single-cell solutions that capture tens of thousands of cells
+Key Commercial SCA Approaches*
+     Application
+Description
+Commercialized Kit
+ RNA
+RNA-seq
+• Analyze the gene expression profile of single cells
+• Fluidigm (‘15**) 10x Genomics (‘16), Bio-Rad (‘17), Takara Bio (‘15 targeted, ‘18 WT), BD (‘17 targeted), Parse Bio (‘20), Fluent (‘22)
+DroNc-seq
+• Analyze the gene expression profiles of single cell nuclei based on Drop-seq, particularly effective for fresh frozen or fixed tissues
+• Dolomite Bio (‘17)
+FFPE-compatibility
+• Enables RNA-seq on tissues fixed with FFPE
+• 10x Genomics (’22)
+ DNA
+CNV
+• Assess the CNVs in genomic DNA (e.g., insertions, deletions, duplications) of single cells
+• Mission Bio (‘17***), 10x Genomics (‘18)
+SNV
+• Assess single nucleotide variants in genomic DNA of single cells
+• Mission Bio (‘17***)
+Epigenetics
+ATAC-seq
+• Characterize chromatin accessibility across the genome in single cells
+• Fluidigm (‘15), Bio-Rad (‘18) 10x Genomics (‘18), Takara Bio (‘18)
+TCR / BCR
+Immune Receptor Profiling
+• Assess the transcriptome (and proteome, in select assays) of T-cell and B-cell receptors
+• Takara Bio (‘16), 10x Genomics (’17), Berkeley Lights (‘20), BD (‘22), Parse Biosciences (‘22)
+ Antigen Mapping
+BEAM
+• Multiplexed antigen screening for the discovery of antigen-specific B- cell and T-Cell clonotypes
+• 10x Genomics (‘22)
+ Multiomics
+CITE-seq (REAP-seq, AbSeq)
+• Analyze gene expression and cell surface proteins simultaneously in SCs
+• BD (‘18), Bio-Rad (‘17 protocol available), 10x Genomics (‘18)
+CNV + SNV + Protein
+• Analyze CNVs, SNVs, and cell surface proteins in single cells
+• Mission Bio (‘19)
+ATAC + RNA
+• Analyze gene expression and open chromatin
+• 10x Genomics (‘20)
+             Note: * Based on company websites and Genome Web; ** Launched on higher throughput (800 cells) IFC chip; *** Launched as targeted panel for AML, not exhaustive Source: DeciBio Interviews and Analysis
+|
+32
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+|33
+  DRAFT
+  We estimate that the worldwide SCA market will grow at 13% p.a. over the next 3 years reaching >$1.7B in 2025
+WW SCA Market (‘19-’25)
+$M
+$2,000
+$1,500
+$1,000
+$500
+$-
+Note: Source:
+CAGR
+(’19 -’22) (’22 -’25) (’19-’25) 25% 13% 19%
+W/O Tissue Dissociation Tissue Dissociation
+$1.2B
+$0.6B
+New to the 2023 report is the inclusion of tissue dissociation market
+2019 2022
+* Excluding spatial analysis DeciBio Interviews and Analysis
+$1.7B
+• The single-cell analysis (SCA) market almost doubled from ~$620M in 2019 to ~$1.2B in 2022, growing ~25% p.a; market experienced ubiquitous ‘COVID-19’ slump in ‘20, bouncing back by ‘22
+• The SCA market is projected to grow to >$1.7B by 2025 (13% p.a.), driven by lower sequencing costs, an uptick in biopharma penetration, and increasing accessible technology; growth moderated by high costs, limiting penetrance, and competition w/ the budgets of other tech, like spatial analysis
+• 10xGenomicscontinuestodominatethemarketlandscapewithalmost~$500Minrevenue*in 2022; they will remain the market leader for the foreseeable future, but face more competition from emerging players
+• Singlecellanalysishasbecomeaworkhorsetoolinacademia,drivingsolidgrowthinthecoming years; in biopharma, it has become more a regularly-used technology to support research and development, but still lags behind academia in adoption
+• Thetissuedissociationmarket,anewadditiontothisreport,isestimatedtoaccountfor~$110Mof the current market, growing to account for almost 12% (~$200M) of the 2025 market
+    ~$200M
+~$1.5B
+       2025
+ Moving Forward: 10x will continue to be the dominant force in the single-cell analysis market; its moderated financial forecasts are indicative of a modest slowing of growth relative to the rapid growth SCA experienced the past decade; nonetheless, SCA continues to grow in popularity and relevance and the market is projected to experience solid growth in the mid-teens through 2025
+ |
+34
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+ Single-cell is an enabling approach, thus maintaining significant runway; however, the high cost of assays and sequencing reagents limits growth
+Market Drivers & Moderators
+          + Continued excitement about SC as an enabling tool, allowing researchers to conduct experiments that were not previously possible
++ 10x Genomics driving additional applications (e.g., FFPE-compatibility) on a large and growing install base >4,250
+- High cost of assay and sequencing reagents (i.e., operating costs)
+- High instrument costs for sample preparation and sample isolation (i.e., capital costs)
+  + Significant biopharma interest in SC methods to support drug discovery; FFPE is common in biopharma - adding FFPE compatible sample-prep is a key driver
++ Incr. availability of instruments / solutions that serve low and high-throughput customers (e.g., 10x Genomics’ Chromium X/iX, Parse Biosciences’ Evercode)
+- Limited short-term clinical applications**; though cell therapy regulations could dramatically change this
+- Increasing sample pooling (e.g., cell hashing, CellPlex) reducing costs and overall spend per sample
+  + Novel sample preparation solutions (e.g., S2 Genomics’ Singulator, 10x Genomics’ single cell nuclei isolation kit) that can automate and / or optimize isolation of cells / nuclei from tissue
++ Emerging and existing sequencing providers are expected to drive sequencing costs down, making SCA more accessible
+- Emerging spatial / in situ alternatives may compete for budget and / or precious samples with traditional single cell approaches
+- Challenges in data analysis, data integration and interpretation as the interest in single-cell and multiomics grows
+  + Several large-scale, well-funded initiatives (e.g., like the Human Cell Atlas*) acting as a key reference resources
+- Improving, but still limited, sensitivity of SCA approaches (10x Genomics detects up to 30% of the genome^)
+  Note: Source:
+- Box-less approaches reduce the spend on capital costs * >$150M in funding across 185 projects since 2018; ** Clinical oncology (players) largely, including Biopharma / CDx focuses on DNA, not RNA (e.g., FMI, GH) ^ Single Cell 3' reagent chemistry (v3)
+|
+35
++ Commercial box-less approaches are coming online (e.g., Parse, Fluent, Scale), likely attracting new users to SCA
+ DeciBio Interviews and Analysis, CZI Grants
+Confidential | ©2023 DeciBio. All rights reserved.
+Drivers
+Moderators
+  Biopharma adoption of single-cell analysis is projected to outpace other segments, swelling to account for ~30% of the market
+WW SCA Market by Customer Type (‘19-’25)
+$M
+$2,000 $1,500 $1,000
+$500 $-
+CAGR
+   Clinical
+Applied markets Biopharma Academia
+(’19 -’22) 25%
+(’22 -’25) 13%
+11% 12%
+18%
+•
+Academia accounts for the majority (~73%) of spend, growing at 11% p.a.; existing academic users are expected to increase pull through, while increased affordability and new applications (e.g., multiomics) are expected to attract new users
+ $10M $30M
+~$1.7B
+22% 16%
+35%
+  ~$617M
+•
+Clinical customers still a minor market segment (<1%), with the utility of SC tech being primarily discovery-oriented; most clinical applications are distant, but reg. standards for cell therapies could see SCA becoming a fixture for QC in the growing cell therapy market
+~$1.2B
+• Biopharmacurrentlymakesup~25%ofthemarket,growing18%p.a.;biopharmahas readily adopted single-cell analysis as a key tool for R&D; SCA is also used to complement early-stage clinical trials, with a subset of patient samples analyzed to provide new molecular insights; with the emergence of FFPE-compatible SCA kits, biopharma is poised to perform SCA on archived samples
+~$520M
+~$1.2B
+     2019
+2022
+2025
+• Appliedmarketsmakeupanegligibleportionofthecurrentmarket(<2%in2022);main applications are genotyping within AgBio, and these applications are largely limited to research opposed to production
+21%
+11%
+  Moving Forward: Biopharma will be the fastest growing segment of single cell analysis due to their ability to spend on expensive instruments and run high-throughput experiments to support drug discovery and development; in the longer-term, drug targets / biomarkers that emerge from single- cell datasets may act as indicators that the tech will become a mainstay for biopharma R&D
+  Source:
+DeciBio Interviews and Analysis
+|36
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  While RNA is still the premier analyte for single-cell analysis, the field is looking towards other analytes / multiomics to power R&D
+WW SCA Market by Analyte Type (‘19-’25)
+$M
+CAGR
+(’19 -’22) (’22 -’25)
+  $2,000 Other 25% 13%
+• RNA the primary analyte for SCA, accounting for more than 81% of the ‘22 market; by ‘25, RNA may represent ~$1.2B, with growth (~8% p.a.) moderated by a shift to other analytes
+ $1,000
+$500 $-
+22%
+8%
+Protein $15M ~$1.7B DNA $70M
+25% 13%
+35% 32% • 43% 24%
+33% 31%
+51% 31%
+ $1,500 Epigenetics $70M
+Multiomics SCA projected to grow by ~31% p.a., nearly doubling in size by 2025; many users now looking to capture more than one ‘dimension’ of information at the SC level
+o MissionBioTapestrilooksatDNA/protein,10xtechlooksattranscriptome/epigenome;home brew methods may incorporate multiple analytes (e.g., CITE-seq, scM&T-seq, scChaRM-seq)
+• Epigeneticsprojectedtogrowat~31%p.a.,drivenbyaccessibilityof10xATAC-seq capabilities; will remain a niche market, more users may opt for RNA as indicator of cell state
+• Today, DNA SCA is a ~$35M market, dominated by MissionBio’s Tapestri platform; DNA will remain a small fraction of the 2025 market, limited by its utility as a standalone analyte; cancer cell evolution / clonal heterogeneity is a key application for DNA
+• Protein as a primary SCA analyte accounts for less than 2% of the 2022 market; the low number of proteins detectable at scale limits the relevant applications
+ Multiomics RNA
+~$616M
+~$1.2B
+      2019
+2022
+2025
+ Moving Forward: Transcriptomics will continue to be the predominant approach for single-cell analysis; as both academic and commercial offerings improve, more users are looking to complement their knowledge with other analyte types beyond RNA
+  Source:
+DeciBio Interviews and Analysis
+|37
+Confidential | ©2023 DeciBio. All rights reserved.
+~$165M
+~$190M
+~$1.2B
+DRAFT
+  Single cell omics is steadily growing across all research areas, with oncology and immunology as the largest segments
+WW SCA Market by Field Of Study (‘19-’25)
+$M
+CAGR
+N/A (’19 -’22) (’22 -’25) •
+ $2,000
+$1,500 Neurology
+Oncology currently ~40% of the market, projected to grow ~16% p.a. by 2025; growth driven by SC multiomic solutions and their utility as drug discovery / research tools in oncology
+Immunology made up ~26% of the ‘19 market; ~13% growth p.a. through ‘23 driven by rapid uptake of SC immune profiling in translational research / interplay between the immune system and cancer
+• Neurologymakesup~9%ofthemarkettoday;difficultiesdissociatingkeytissues(e.g., brain tissues) moderate growth going forward
+• Basic cell biology makes up ~8% of the current market; despite being a key application, growth is slower as it is restricted to mostly academia
+• Microbiology and Stem cell biology account for ~6% and ~5% of the current market, respectively; in microbiology, single-cell DNA sequencing is a key application to understand microbiology diversity and evolution; in stem cell biology, RNA and epigenetic sequencing are regularly used to understand unique cellular states
+ Other 25% 13%
+  Stem cell biology $55M Microbiology $35M Basic cell biology $70M
+~$1.7B
+26% 14% 26% 14%
+  $1,000 $500 $-
+21% 9% 25% 13%
+Immunology Oncology ~$1.2B
+~$616M
+25% 13% • 21% 8%
+22% 10%
+  26%
+14%
+       2019 2022
+2025
+~$90M
+~$125M
+~$155M
+~$460M
+~$735B
+ Moving Forward: Oncology and immunology, where research is well-funded, are projected to continue to account for most of the market; adoption of multiomics approaches (e.g., 10x’s RNA + ATAC-seq) by biopharma is largely expected to fall in these fields of research
+  Source: DeciBio Interviews and Analysis
+|38
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Sample prep remains the largest market segment; tissue dissociation is rapidly growing into a key market segment
+WW SCA Market by Workflow Step (‘19-’25)
+New to this report is the inclusion of tissue dissociation market
+The Tissue dissociation market is projected to grow to account for ~12% of the overall market by 2025; growth (~24% p.a.) is driven by new methodologies that dissociate tissues without perturbing the biology of the cell, allowing for previously-difficult tissues to be better studied at the single-cell level (e.g., pancreatic, brain tissues); basic enzymatic and mechanical dissociation will remain the primary approaches to tissue dissociation
+ $M
+$2,000
+$1,500
+$1,000
+$500 $-
+CAGR
+•
+ Sequencing & Analysis Sample Preparation Tissue Dissociation
+~$1.2B
+~$1.7B
+(’19 -’22) 25%
+43%
+25%
+22%
+(’22 -’25) 13%
+24%
+13%
+10%
+   ~$616M
+• Samplepreparation,whichaccountsforalmost50%ofthemarketin2022,isprojectedto grow with the market (~13% p.a.); growth of the segment will likely be negatively affected by cost reduction efforts (e.g., targeted approaches, increased sample pooling, box-less approaches); however, this will be offset by broader adoption of single-cell technologies and bigger platforms (e.g., Chromium Connect) with higher pull-through rates
+• Downstreamanalysis(i.e.,sequencingandanalysis)isprojectedtogrowslowerthanthe market (~10% p.a.), moderated by decreasing sequencing costs from increasing throughput of instruments (e.g., Illumina’s NovaSeq X) and new sequencing technologies (e.g., Element and Ultima)
+     2019
+2022
+2025
+ Moving Forward: Tissue dissociation will continue to mature into a key segment of the market as users are looking to new methodologies to improve access to delicate cell types / difficult-to-dissociate tissues; users anticipate 10-15% of spend to be dedicated to tissue dissociation by 2025, while companies in this space (e.g., S2 Genomics, Levitas Bio, Cellsonics, Miltenyi Bio) are poised to benefit from this increased spend
+  Source:
+DeciBio Interviews and Analysis
+|39
+Confidential | ©2023 DeciBio. All rights reserved.
+~$210M
+~$810M
+~$710M
+DRAFT
+  Reagents are the engine of the market: 10x revenues have shifted to almost ~85% reagents, and users are looking towards box-less approaches
+WW SCA Market by Product Type (‘19-’25)
+$M
+$2,000
+$1,500
+$1,000
+$500 $-
+CAGR
+(’19 -’22) (’22 -’25)
+  Other Services Instruments Reagents
+~$616M
+~$9M
+~$73M
+~$1.2B
+~$1.7B
+25% 13% • 20% 16%
+Reagents account for ~78% of the current market, growing ~13% p.a. by 2025; growth is driven by 1) expansion of the installed instrument base 2) increased utilization of placed instruments 3) fully-automated single-cell library prep instruments increasing reagent pull- through 4) instrument-free approaches (e.g., Smart-Seq2, Parse Bio, Fluent Bio); growth is moderated by the declining costs of sequencing reagents
+Instruments account for ~19% of the current market driven by broad adoption of single-cell instruments and are projected to grow slower than the underlying market (~9% p.a.); here, growth is moderated by lower instrument prices and instrument-free approaches
+   17% 21% 20% 9%
+•
+ 2019
+2022
+2025
+~$300M
+~$1.35B
+27%
+13%
+• ServicesandOtherproducttypesmakeupanegligiblefraction(~3%)ofthemarket;many providers, new and established, provide services in addition to their distributed offerings; the market remains moated by SCA’s increasing accessibility
+       Moving Forward: Reagents and consumables will continue to account for a greater share of the market; the uptake of instrument-free approaches (e.g., Parse Bio, Fluent, Scale, Singleron) will likely serve as an indicator of another shift towards a reagents-centric market
+  Source:
+DeciBio Interviews and Analysis
+|40
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  While the U.S. and Europe still account for ~72% of the market, we expect strong growth in largely untapped markets (e.g., China, APAC)
+WW SCA Market by Geography (‘19-’25)
+$M
+$2,000 $1,500 $1,000
+$500 $-
+U.S. Europe China APAC Others
+CAGR
+(’19 -’22) (’22 -’25)
+  ~$616M
+•
+o Newerplatforms(e.g.,MGI’sDNBelabCseries)aretargetingthemarketinChina TheremainderofAPACandROWaccountsfor~14%ofthecurrentmarket(~11%
+and ~3% respectively); increased access to single-cell platforms will continue to drive growth in these regions (although average pull-through rates lag behind that of more established areas)
+~$94M
+~$1.2B
+~$1.7B
+~$270B
+~$355M
+~$855M
+25% 13%
+30% 18% 21% 13%
+35% 15% 23% 10%
+24% 13%
+•
+The U.S. makes up ~50% of the market in 2022, with growth tracking with the overall market; Europe accounts for ~22%, growing steadily with the market through 2025 (~10% p.a.)
+• Chinaisestimatedtoaccountfor~14%oftheoverallmarket;thegeographyis expected to grow faster than the market, driven by maturing pull-through and continued placements in the geographies; projections are clouded by COVID-19 lockdowns, which 10x has cited to be a key concern
+    2019
+2022
+2025
+ Moving Forward: As single-cell analysis becomes increasingly accessible, geographies beyond the U.S. and Europe will continue to grow
+  Source:
+DeciBio Interviews and Analysis
+|41
+Confidential | ©2023 DeciBio. All rights reserved.
+~$155B
+DRAFT
+  Agenda
+o Introduction & Methodology o Executive Summary
+o PublicationAnalysis
+o MarketAnalysis
+o Primary Market Research o CompetitiveAnalysis
+o Appendix
+ Confidential | ©2023 DeciBio. All rights reserved.
+|42
+ DRAFT
+  We conducted a primary stakeholder research study via survey and phone interviews with a total of 25 users in the single-cell space
+Stakeholder Survey Demographics (N=25)
+ 100% 90% 80% 70% 60% 50% 40% 30% 20% 10% 0%
+Source:
+Evercode
+      Biopharma
+Europe
+>$3M
+~$1.0-$3.0M
+Homebrew
+ Tapestri
+  ~$500k-$1M
+Rhapsody
+ Connect
+     Academia
+U.S.
+$100k- $500k
+X
+Controller
+  <$100k
+FACS into single wells
+ Genesis ddSEQ
+      Nadia
+                            Customer Type
+Geography
+SC Spend (2022)
+Platform Utilization
+ DeciBio Interviews, Survey, and Analysis
+|43
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Our respondents spend grew 45%, ‘21-’22, and they project a 30% increase ‘22-’23, in contrast to 10x’s slowdown; slower growth is expected 2023-25
+Single Cell Spend by Customer Type (N=25)*
+$35 $30 $25 $20 $15 $10
+$5 $-
+Note: Source:
+26% 4%
+15%
+Our academic respondents spent ~$10M* in 2021 and anticipate spending ~$17M* in 2025, a growth rate of 15% p.a.
+o Academic respondents include super users who continued to grow 6- fold above the slowdown seen by 10x Genomics 2021-22 (i.e., ~5%); however, they project a slowdown in latter years, growing ~4% p.a. 2023-’25
+“... My spend on single cell has increased 2 to 3 times every year, the number of samples and cells continues to increase ...”
+• Our biopharma respondents spent ~$6M in 2021 and project spending ~$15M in 2025, a growth rate of 28% p.a.
+o Biopharma expected to be fastest growing segment of broader market / key lever of growth w/ FFPE compatibility recently unlocked
+“... We are ramping up single cell sequencing for a subset of patients in early clinical research...we plan to reassess its value in 4 years and decide how to best utilize SC technologies going forward ...”
+• Broader slow down may be indicative of super users reaching steady state; continued growth likely dependent on rate of new users adopting SCA
+|
+CAGR
+(’21 -’23) (’23 -’25) (’21-’25) • 37% 5% 20%
+54% 6% 28%
+        6
+10
+10
+13
+13
+16
+15
+17
+    2021
+2022
+2023 2025
+Biopharma (N=10)
+Academia (N=15)
+* Includes downstream sequencing costs DeciBio Interviews, Survey, and Analysis
+44
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+Millions
+  Among our respondents, single cell reagents still represent the biggest portion of spend at ~50%, followed closely by sequencing with ~40%
+Spend By Workflow Step 2022 (N=25)*
+ 9
+52
+38
+6
+58
+36
+14
+45
+41
+Overall Academia Biopharma
+• Reagents represent the greatest share of spend across the SCA workflow, reportedly ~50% of costs amongst respondents
+o Single cell reagents represent more spend for our academic respondents compared with biopharma, which could reflect lower spend on tissue dissociation and / or reduced sequencing depth
+• Our biopharma respondents report more equivalent spend on single cell reagents and sequencing reagents
+o This could be reflective of increased sequencing depth
+• This distribution remains consistent with our 2020 report, where we estimated for every $1 spent on single cell reagents, users spend on average 80 cents on sequencing
+Note: Source:
+* Weighted average
+DeciBio Interviews, Survey, and Analysis
+45
+0%
+20% 40% 60% 80%
+Tissue Dissociation
+Single Cell Reagents
+Downstream Analysis (e.g., Sequencing)
+100%
+o
+“...
+This dynamic is expected to change as new sequencing entrants and the dominant Illumina continue to drop prices
+Illumina is being pressured to lower costs...I expect that as sequencing costs come down, my lab will be able to afford to perform larger single cell experiments ...”
+|
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  While tissue represents ~60% of our respondents’ starting material, biopharma uses more blood; both customer types use nuclei sparingly
+Spend Distribution By Sample Type 2022 (N=25)*
+  100% 80% 60% 40% 20% 0%
+3 3 0
+100% 80% 60% 40% 20%
+11
+17
+3
+97
+89
+86
+Note: Source:
+46
+•
+Overall, tissue makes up ~60% of sample types; however, biopharma and academic respondents are at opposite ends of the spectrum
+o Academic respondents also leverage cell lines / cultured cells
+* Weighted average
+DeciBio Interviews, Survey, and Analysis
+•
+Use of nuclei is limited but utilized more among academic respondents
+o Nuclei are typically reserved for tissue types that are difficult to dissociate (e.g., brain, liver) or archival and frozen samples
+o Some assays, like ATAC-seq and multiomics, leverage nuclei
+|
+34
+20
+63
+77
+71
+29
+All
+Tissue
+Academia
+Blood
+Biopharma
+Other
+All
+Academia
+Whole Cell Nuclei
+Biopharma
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  2/3rds of respondents are considering adding instrumentation to increase throughput, expand capacity, or provide optionality (i.e., 10x alternatives)
+Future Platform Purchase (N=25)
+ 100% 80% 60% 40% 20% 0%
+Source:
+N=8
+N=25 N=17
+HIVE Genesis
+• 1/3rd of respondents don’t plan on adding instrumentation, citing sufficient capacity for their current needs
+o A few respondents are limited by FTE and budget requirements or access instruments through a core facility
+• The remaining respondents are considering or plan to add an instrument in the next 12 months to add capacity, optionality, or reduce cost
+“... Single cell is working well for us...we’re adding more capacity at new sites ...”
+o 8 respondents plan to upgrade their 10x instrument to the X or iX
+“... IcurrentlyhavetheChromiumController,butwillgettheChromiumXseriessowecanlookat
+can look at FFPE samples ...”
+o A few respondents noted interest in scDNA / leveraging Mission Bio’s Tapestri
+• Interviewees at core facilities indicate they want to provide customers with more optionality; one interviewing calling out Parse’s Evercode, and PerkinElmer’s HIVE as likely additions in the near term
+     Access Through Core
+Insufficient FTE
+Yes, 7
+   No Budget
+ Maybe, 10
+ Sufficient Capacity
+Connect
+  iX
+ No, 8
+X
+  Evercode
+ FACS
+ Rhapsody
+ Tapestri
+Controller
+       Why Not
+Plan to Instrument Purchase
+(<12 months)
+“...
+We’re looking to provide optionality for end users other than 10x, Parse requires no equipment and HIVE has simpler processing and the ability to freeze the sample...”
+ DeciBio Interviews, Survey, and Analysis
+|47
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Reagent cost and sensitivity have the highest impact on future purchasing decisions among respondents
+Factors Impacting Purchasing Decision (N=25)*
+Rank
+Aca. Bio.
+1 2 3 1 2 4 53 35 7 6 57
+•
+Reagent cost is the first and second most important factor influencing purchasing decisions for academic and biopharma respondents, respectively
+o Cost per sample including sequencing is still in the range of thousands of dollars per sample; cost is likely the greatest barrier to widespread adoption of single cell
+Sensitivity is more important for biopharma respondents than cost relative to academia
+o While improving, the number of unique transcripts captured per cell (~30%**) is still only a fraction of total transcripts
+▪ In addition, low abundance transcripts can be difficult to capture with current methods
+Throughput and instrument cost have a higher impact on purchasing decisions for academic respondents
+o Emerging players are trying to address this need with scalable box-less approaches (e.g., Parse, Fluent)
+ Reagent Cost Sensitivity Throughput
+Compatibility w/ Down- Stream Platforms
+Instrument Cost Turnaround Time Customer Support
+•
+ Note: Source:
+* Graph depicts frequency of ranking 1, 2, or 3 for each criteria; ** Single Cell 3' reagent chemistry (v3), Parse Biosciences’ WT V2 can detect 84% more genes in certain tissues DeciBio Interviews, Survey, and Analysis; Massively parallel digital transcriptional profiling of single cells, https://www.nature.com/articles/ncomms14049
+|
+48
+0 5 10 15
+Rank 1 2 3
+•
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  ~60% of respondents anticipate spatial sequencing will compete for single cell budget over the next 5 years
+Single Cell & Spatial Budget Dynamics (N=18)
+  “In the next 5 years, do you anticipate that your single-cell sequencing budget will compete with spatial sequencing”?
+“In the next 5 years, what percentage of your single-cell sequencing spend will shift towards spatial sequencing”?
+N=17**
+ N=18**
+Unsure
+  •
+~60% of respondents anticipate some of their single cell budget shifting to spatial sequencing approaches
+•
+0% 20% 40% 60% 80% 100%
+% Shift to Spatial Sequencing*
+Across all respondents, ~30% of single cell budget is at risk of shifting to spatial sequencing through 2027
+o While complementary use cases exist, budget dynamics typically require trade-offs by use case
+Note: Source:
+* 0% = My single cell sequencing spending will be independent of any spatial sequencing I may perform, 100% = My single cell sequencing spending will be entirely replaced by spatial sequencing; ** Line of questioning introduced partway through campaign
+DeciBio Interviews, Survey, and Analysis
+|
+49
+o
+While still early, there is considerable excitement for spatial approaches, which are generally considered the next key advancement in single-cell
+No
+Yes
+ Confidential | ©2023 DeciBio. All rights reserved.
+Academia Biopharma
+DRAFT
+  Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+|50
+  DRAFT
+  10x Genomics is the clear leader in single cell; despite a recent slow down in growth, 10x will retain is dominant position in the coming years (1 of 3)
+  Company Quick Facts
+ Headquarters
+Pleasanton, CA
+Company Type
+NASDAQ: TXG; Mkt. cap ~$5.05B*
+Employee Count
+1.9k+
+Revenue
+$490M (2021A) $500M-$520M (2022E)
+ Key Commercial Developments
+ Company Summary
+    • Develops / manufactures integrated systems for SC, spatial, in situ analyses
+• Large / growing install base (4,250+), suite of offerings across the workflow
+      Keystone Single Cell Offering
+Tissue Single Cell Sample Prep Downstream Informatics Dissociation Isolation Analysis
+           Offering
+   Description
+Chromium Single-Cell Controller
+• Dedicated instrument for SC applications featuring simple / comprehensive workflow
+• Includes complete software suite for rapid analysis / visualization of large SC datasets
+• Supports a variety of applications including existing single-cell 3’ solutions for single-cell transcriptomics
+     Competitive Analysis
++ Can interrogate hundreds-millions of cells + Preparation of single-cell sequencing
+libraries in less than one workday (8hrs)
++ Broad / incr. range of supported applications
+- Expensive reagent costs
+- Library prep. completed off
+instrument; requires hours of technician time w/ several manual steps (Capital intensive Chromium Connect or other liquid handler (e.g., Hamilton) necessary to automate)
+• Nov 2022: Partners with Jumpcode Genetics to enable compatibility of their kit with the Chromium
+• Nov 2022: Commercializes Barcode Enabled Antigen Mapping (BEAM)
+• Oct 2022: Collaborates with Oxford Nanopore Technologies to enable compatibility across platforms
+• Oct 2022: Partners with PacBio to launch single-cell RNA sequencing kit
+• Apr 2022: Launches Fixed RNA Profiling and Nuclei Isolation kits for single-cell analysis on fragile and frozen tissues
+• Oct 2021: Announces opening of manufacturing and commercial hub in Singapore
+• Jul 2021: Chromium X series is launched
+  Note: Source:
+* Market cap of 1/26/2022 DeciBio Analysis
+|
+51
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  10x Genomics is the clear leader in single-cell; Despite a recent slow down in growth, 10x will retain is dominant position in the coming years (2 of 3)
+Additional Single-Cell Analysis Offerings
+        Offering
+Chromium X series
+Chromium Connect
+Gene Expression
+Gene Expression Flex
+Image
+ Description
+• Like the Chromium Controller, but has improved offerings (e.g., Wi-Fi connectivity) and can be low- or high-throughput
+• Automated liquid handler with Chromium Controller built in to allow researchers to go from cells to sequencing-ready library in a workday
+• 3’ gene expression analysis
+• Allows for analysis of up to 8
+samples / 80,000 cells per run
+• Capable of WTA, targeted gene expression, and multiomic analysis (cell surface protein; CRISPR perturbation screening)
+• A scalable solution allowing researchers to analyze up to 128 samples and 1M cells per run (with multiplexing)
+• Expanded sample access including cells and nuclei from fresh, PFA-fixed, FFPE tissue
+Competitive Analysis
++ More user friendly than the Controller, streamlining access to new users
++ Positioned as flexible, so can be used as an entry platform before scaling up to high-throughput assays
++ Saves 7-8 hours of hands-on time eliminating manual NGS library preparation steps
+- Likely high capital expenditure cost (price unknown / not disclosed) and thus will require enough volume to be worthwhile
++ High throughput solution
++ Straightforward workflow
+- Requires purchase of Chromium Connect or automated liquid handler for downstream library preparation
+- Expensive reagent costs
++ Most sensitive WTA offering (twice as sensitive as the Gene Expression assay)
++ High sensitivity / cell capture rate
++ Batching and multiplexing reduces variability and per- sample cost by up to 75%
+- Only compatible with human and mouse samples
+        Source: DeciBio Analysis |52 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  10x Genomics is the clear leader in single-cell; Despite a recent slow down in growth, 10x will retain is dominant position in the coming years (3 of 3)
+Additional Single-Cell Analysis Offerings
+       Offering
+Immune Cell Profiling
+ATAC
+Multiome ATAC + Gene Expression
+Image
+  Description
+• 5’ gene expression for examining cellular context of adaptive immune response and immune repertoires
+• Multiomic capabilities include cell surface protein, antigen specificity, BCR / TCR sequencing, and CRISPR screening
+• Solution for mapping the epigenetic landscape at single cell resolution
+• Enables analysis of open chromatin regions, epigenetics, and cis-regulatory elements to understand drivers of gene expression across cell types and states
+• Transcriptome and open chromatin profiling from the same nucleus
+• Offers deeper insights into cell types, cell states, and gene regulatory networks
+Competitive Analysis
++ High throughput solution
++ High sensitivity and cell capture rate
++ Solution simplifies workflow for library prep, sequencing and analysis
+- Requires purchase of Chromium Connect or automated liquid handler for downstream library preparation
+- Expensive reagent costs
++ Unbiased, genome-wide, approach
++ High throughput, sensitivity, cell capture rate
++ Solution simplifies workflow for, library prep, sequencing and analysis
+- Not compatible with Chromium Connect
+- Expensive reagent costs
++ High throughput solution
++ High sensitivity and cell capture rate
++ Solution simplifies workflow for, library prep, sequencing and analysis
+- Not compatible with Chromium Connect
+- Expensive reagent costs
+      Source: DeciBio Analysis |53 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  BD has established its market presence in SC through partnerships and acquisitions, but has limited traction to date (relative to 10x) (1 of 4)
+Company Summary
+• Global medical technology company that develops, manufactures and sells medical devices, instrument systems and reagents
+   Company Quick Facts
+    Headquarters
+ Company Type
+Employee Count
+Franklin Lakes, NJ
+NYSE:BDX; Mkt cap ~$70.6B*
+ 10k+
+    Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+     Offering
+ Description
+BD Rhapsody SCA System
+• Utilizes Unique Molecular Indices (UMIs) to characterize mRNA
+• Magnetic bead solution allows storage of prepared samples for up to 12 weeks
+Revenue
+Key Commercial Developments
+~$18.875B (2021)
+            Competitive Analysis
++ Gravity based approach gentler on cells
++ Targeted offering reducing sequencing depth
+required and thus reduces cost (customized panels)
++ Compatible with BD cell sorters
+* Market cap of 1/26/2022 DeciBio Analysis
+- Proprietary cartridges
+- Limited publication data
+• Jan 2023: Announces launch of BD Rhapsody HT Xpress System, enabling HT cell isolation, barcoding, and analysis
+• Jun 2022: Introduces the BD FACSDiscover S8 Cell Sorter with CellView Image Technology to combine spectral flow cytometry with sort-capable image analysis
+• Jan 2022: Announces new BD CellView Image Technology, which captures images of and sorts cells at 15,000 cells per second
+• Mar 2022: Announces launch of BD Rhapsody  TCR / BCR Multiomic Assay for RNA and cell surface protein characterization
+• Jan 2021: Announces launch of AbSeq Immune Discovery Panel, an antibody-oligo tool to probe for 30 immune markers
+• Oct 2019: Announces launch of Rhapsody WTA Amplification Kit
+• Jul 2018: Commercial release of AbSeq assay, combines HTS + protein expression data
+|
+    Note: Source:
+54
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  BD has established its market presence in SC through partnerships and acquisitions, but has limited traction to date (relative to 10x) (2 of 4)
+Additional Single-Cell Analysis Offerings
+      Offering
+BD Medimachine
+BD FACSAriaTM III
+ BD FACSMelodyTM
+Image
+   Description
+• Automated, mechanical tissue dissociation of solid tissues for flow, cell culture, or DNA amplification
+• Uses BD disposable Medicons and Filcons to ensure standard dissociation
+• Cell sorter used for single-cell isolation along with other applications
+• First introduced in 2003, this is the third generation of its cell sorter
+• Expandable up to 4 lasers and 18 colors
+• Cell sorter integrated with BD FACSChorus Software to provide a streamlined and automated workflow
+• Expandable up to 3 lasers and 9 colors
+Competitive Analysis
++ Removes operator technique variance from sample dissociation process
++ Allows hands-off tissue dissociation for contaminated or rare samples
++ Flexible solution with multiple Medicon and Filcon sizes
+- Lower cell viability than with manual methods (razor blades, glass slides, hypodermic needles, etc.)
++ BD FACSDivaTM software enables easy transfer of assay design between analysis and sorting platform
+- Lack of integration with downstream analysis techniques
+- Not as automated as other smaller, inexpensive sorters
++ More affordable and efficient sorter, with a run time of 17 minutes
++ Designed for all skill levels, with on-board prompts and root cause identification to simplify operation
++ Compatible for use in a biosafety cabinet
+- Lack of integration with downstream analysis techniques
+     Source: DeciBio Analysis |55 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  BD has established its market presence in SC through partnerships and acquisitions, but has limited traction to date (relative to 10x) (3 of 4)
+Additional Single-Cell Analysis Offerings
+      Offering
+BD FACSDiscoverTM S8
+BD FACSymphonyTM S6
+RhapsodyTM WTA Kits
+Image
+  Description
+• The first spectral flow cytometer with sort- capable image analysis; uses BD CellView Image Technology
+• Flexible system configurations with up to 5 lasers and 86 detectors
+• Flexible sorting options including 6-way 5- mL sort, index sorting, and sorting on both plates (96-well and 384-well) and slides
+• Enables sorting of rare cell populations with 20+ colors, up to 50 parameters, and up to 6 cell types at a time
+• Flexible system configurations, with up to 9 lasers and 50 detectors, including the ability to use in a biosafety cabinet
+• Flexible sorting options including 96, 384, and 1,536-well plates and a range of nozzle options (70, 85, 100, 130-m)
+• 3’ WTA kit, compatible with AbSeq assays to generate multiomic data
+• WTA library generated directly from BD Rhapsody Enhanced Cell Capture Beads; an additional amplification step is required for cells labelled with AbSeq AbOligos
+Competitive Analysis
++ Offers label-free sorting using image- enabled FSC, SSC, and light loss detectors
++ BD sorting technology uses a fixed- alignment gel-coupled cuvette, enabling quick nozzle changes and eliminating requirement of daily alignments
+- Likely an expensive option for cell sorting capabilities alone
++ High sample purity w/ BD Accudrop tech, enables breakoff / pausing when cell sorting
++ High sensitivity with low-noise electronics, PMT detectors with high sensitivity at each detector wavelength, and optics designed to maximize signal collection
+- Doesn’t perform downstream analysis
+- Special order only
++ Compatible with the Single-Cell Multiplexing Kit, enabling analysis of up to 12 samples per cartridge
++ Library generation for 1k-20k cell samples
+- Only compatible with Illumina sequencers
+- Protocol optimization may be required for cell types other than PBMCs
+      Source: DeciBio Analysis |56 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  BD has established its market presence in SC through partnerships and acquisitions, but has limited traction to date (relative to 10x) (4 of 4)
+Additional Single-Cell Analysis Offerings
+      Offering
+RhapsodyTM Targeted mRNA Kits
+RhapsodyTM TCR / BCR Profiling
+AbSeq Assay
+Image
+   Description
+• Four targeted mRNA panels offered, including Human Immune Response Panel, Mouse Immune Response Targeted Panel, Onco-BC Targeted Panel, and Human T- Cell Panel
+• Multiplex PCR to detect 399 set genes and up to 100 customized genes
+• Compatible with AbSeq assays to generate multiomic data
+• TCR / BCR Multiomic Assay compatible with AbSeq, whole transcriptome, and targeted mRNA assays
+• VDJ CDR3 Assay compatible with AbSeq Assay and the Human Immune Response Panel
+• Compatible with AbSeq assays to generate multiomic data
+• Characterizes cell surface proteins and mRNA expression from single cells
+• AbSeq antibody-oligonucleotides use oligonucleotide sequencing for protein detection
+• Delivers digital readout using molecular barcoding with unique molecular identifiers (UMIs)
+Competitive Analysis
++ Requires fewer reads than WTA, improving assay efficiency
++ Compatible with the Single-Cell Multiplexing Kit, enabling analysis of up to 12 samples per cartridge
+- Only compatible with Illumina sequencers
++ Enables analysis of transcriptome, proteome, and TCR / BCR repertoire of single cells
+- Only compatible with Illumina sequencers
++ Analyzes 10s-100s of cell-surface proteins
++ Uses BD’s validated antibody portfolio with a
+range of specificities
++ Compatible with the Single-Cell Multiplexing Kit, enabling analysis of up to 12 samples per cartridge
+- Only compatible with Illumina sequencers
+     Source: DeciBio Analysis |57 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Berkeley Lights’ Beacon and Lightning platforms streamline isolation and cell culture, and offer phenotypic and genotypic analyses (1 of 3)
+   Company Quick Facts
+ Headquarters
+Emeryville, CA
+Company Type
+Public
+Employee Count
+~300
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+• Developed a proprietary optofluidic system that uses light to move individual cells so they can be isolated, cultured, assayed and exported
+      Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+Berkeley Lights Beacon®
+ Description
+• Beacon platform allows individual control of 1000s of groups of cells that can be individually cultured, assayed, and analyzed
+• 4-color fluorescence imaging allows capture of individual cells and capture of bead, IgG, or GFP reporter assays
+• Bright field allows capture of cell morphology through optics and nanofluidic tech
+            + Multimodal technology allows proteomic and transcriptomic investigation on the same platform
+- Proprietary platform in early stages, will require high up- front time and monetary expenditure to implement
+- Lack of precedence in research with the platform
+• Jan 2023: Launches Beacon Select platform
+• Jan 2023: Announces acquisition of IsoPlexis, rebranding to
+PhenomeX
+• Nov 2022: Ends partnership with Ginko Bioworks
+• Mar 2022: Upgrades software for Beacon and Lightning
+• Dec 2021: Enters French market with MlmAbs SAS’s purchase of a TechAccess subscription for the Beacon
+• May 2021: Announces partnership with Genovac for therapeutic antibody discovery
+• Oct 2021: GSK acquires Beacon for Antibody Tx pipeline
+• Aug 2021: Announces partnership with Bayer for HTS of bioactives,
+branching out into agricultural applications
+• Jan 2021: FDA approves IND application using Beacon monoclonality assurance data
+ Competitive Analysis +
+NanoPens, proprietary nanoscale wells on OptoSelect chips allow more flexibility in cell culture and analysis
+   Source: DeciBio Analysis
+|58
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Berkeley Lights’ Beacon and Lightning platforms streamline isolation and cell culture, and offer phenotypic and genotypic analyses (2 of 3)
+Additional Single-Cell Analysis Offerings
+       Offering
+Berkeley Lights Beacon SelectTM
+Berkeley Lights LightningTM
+OptoSeqTM 3’ mRNA Library Kit
+Image
+   Description
+• Smaller version of the Berkeley Lights Beacon®; designed for cell line development at small to mid-sized biopharma and CROs
+• Desktop platform built to support single cell cloning, isolation, characterization and functional profiling, live cell interactions, and genomic profiling
+• Winner of Scientist’s top 10 innovations of 2019
+• Reagents, primers, probes, and enzymes for cDNA sequencing of 3’ mRNA targets
+• Allows consolidation of library prep onto the Beacon or Lightning platform, expediting discovery
+Competitive Analysis
++ ~50% less expensive than the Berkeley Lights Beacon®
++ Reduces timeline for cell line development
++ Improved cloning efficiency and recovery
+than legacy technologies
+- Low throughput (2 chips per run)
++ Allows direct visualization of 100s to 1000s of individual cells
++ Facilitates multimodal interrogation on a single desktop instrument
+- Unique workflow and low uptake may make collaboration difficult for early adopters
+- High capital equipment cost
++ Faster discovery by running library prep on cell isolator
+- Still requires 3rd party vendor for sequencing
+     Source: DeciBio Analysis |59 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Berkeley Lights’ Beacon and Lightning platforms streamline isolation and cell culture, and offer phenotypic and genotypic analyses (3 of 3)
+Additional Single-Cell Analysis Offerings
+       Offering
+TCRseq Kit
+Cytotoxicity Assay
+Single Cell Cytokine Assay
+Image
+   Description
+• T cells identified in functional assays are recovered, VDJ regions of α / β chains amplified, cDNA libraries created for sequencing
+• Reagents to process up to 192 single human T cells
+• Kit that enables kinetic analysis of target cell lysis by individual T-cells
+• Kit developed to measure cytokine secretion from individual T cells as they interact with antigen-presenting cells
+Competitive Analysis
++ Streamlines downstream sequencing to functionally relevant TCRs
+- Still requires 3rd party vendor for sequencing
++ Delivers insight into heterogeneity in T cell functionality
++ Post-assay cell recovery for downstream analysis possible
++ Customizable assays and selection of cell markers
++ Live cell recovery for downstream analysis
+- Multiplexing limited to 3 cytokines per run
+     Source: DeciBio Analysis |60 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Bio-Rad acquired Celsee to improve its competitive position given lack of traction for the ddSEQ; the commercial status is unclear (1 of 2)
+   Company Quick Facts
+ Headquarters
+Hercules, CA
+Company Type
+NYSE:BIO; Mkt cap $13.78B*
+Employee Count
+~7,900
+Company Summary
+• Global manufacturer of life science research and clinical diagnostics products
+      Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+ddSEQTM Single-Cell Isolator
+ Description
+• Part of the Single-Cell RNA Sequencing Solution jointly developed by Illumina and Bio-Rad
+• Based on Bio-Rad’s Droplet Digital PCR technology
+• Microfluidic cartridges encapsulate single cells or nuclei and barcoded beads into droplets, where cell- bead pairing and barcoding occur
+• Includes an automated pipetting system and a fluid handling station
+          Competitive Analysis +
+Note: Source:
+* Market cap as of 1/26/2022 DeciBio Analysis
+|
+61
++ High speed, allowing isolation of single-cells in ~5 minutes
+Integrated library prep step with Illumina’s WTA 3’ Library Prep Kit
+- -
+Low cell capture efficiency rate <15% (reported as low as 3% by ABRF)
+Requires multiple cartridges to reach throughput equivalent of key competitor 10x (i.e., 10k+ cells)
+Revenue ~$2.81B (2022)
+Key Commercial Developments
+• Jan 2023: Announces 2023 plan to focus on rare cell detection and single-cell multiomics in addition to launching single-cell sequencing sample prep kits and analysis platform
+• Oct 2022: QX600 ddPCR System available for use in Beta testing program
+• Feb 2022: Announces initial offerings in single cell analysis as part of growth strategy and acceleration of financial targets
+• Apr 2020: Bio-Rad acquires Celsee for an undisclosed amount improving its competitive positioning
+• Aug 2019: Bio-Rad wins damages in patent infringement case against 10x, in the amount of ~$55M ($35M judgment and 15% royalty on 10x’s original GEM products totaling ~$20M through June 30, 2019)
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Bio-Rad recently acquired Celsee to improve positioning; their ddSEQ single-cell isolator previously had poor traction (2 of 2)
+Additional Single-Cell Analysis Offerings
+       Offering
+S3TM Cell Sorter
+Droplet DigitalTM PCR System
+SureCell ATAC-Seq Library Prep Kit
+Image
+  Description
+• First automated cell sorter with up to 2 lasers and 4 fluorescence detectors
+• Simplistic design capitalizing on design flaws of competitor cell sorter instruments
+• ProDropTM technology enables automated drop delay calculation + droplet break-off monitoring
+• Absolute quantification of target DNA or RNA molecules
+• Can be used to generate single-cell library for further analysis with NGS
+• Simple and easy-to-use workflow with 96- sample throughput
+• One-step RT-PCR, compatible with digital PCR
+• Genome-wide open chromatin profiling kit to uncover mechanisms of gene regulation
+Competitive Analysis
++ Extremely user-friendly with minimal user input
++ Compact, benchtop fit
++ Good for small-scale experiments
+- Limited number of colors available
+- Low throughput
+- Lack of integration w/ downstream prep techs
++ Droplet partitioning reduces bias from amplification efficiency and PCR inhibitors
++ Minimal manipulations to preserve sample integrity
++ Increased detection sensitivity for low- abundance transcripts
+- Lack of integration with upstream sample prep technologies
++ Assay runs on ddSEQ Single-Cell Isolator
++ Capture efficiency of 65-95%
++ Omnition Analysis Software developed as an analysis pipeline for ATAC-seq data produced with this assay
+- Low throughput (up to 4,000 cells per sample)
+      Source: DeciBio Analysis |62 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Cellenion’s CellenONE platform offers single cell isolation and dispensing for downstream omics analysis (1 of 2)
+   Company Quick Facts
+ Headquarters
+Lyon, France
+Company Type
+Private (SCIENION AG Subsidiary)
+Employee Count
+~35
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+• Provides instruments for single-cell isolation and consumables that enable sample preparation for downstream single cell omics
+      Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+CellenONE
+Description
+• Fully automated single cell isolator with capability to run automated sample prep
+• Morphology and / or fluorescence image based single cell isolation
+• Isolates 1-50,000 cells with diameters from 0.5-80μm
+           + Acoustic cell isolation tech increases cell viability
+93%+ single cell dispensing rate, avoiding doublets and empty wells
+- Throughput on acoustofluidic separation devices remains low
+• Sep 2022: SCIENION & Cellenion release proteoCHIP LF 48, enabling sample prep for label-free single-cell MS-based analysis
+• Feb 2022: Launches CellONE HT
+• Nov 2021: Announces co-marketing agreement with Bruker for
+label-free single cell proteomics
+• Nov 2021: Announces co-marketing agreement with ThermoFisher Scientific, offering a full MS workflow
+• Nov 2021: SCIENION & Cellenion release proteoCHIP 12*16, enabling sample prep for multiplexed single-cell MS-based analysis
+• June 2021: Releases customized offerings for single-cell omic applications
+ Competitive Analysis +
+  Source: DeciBio Analysis
+|63
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Cellenion’s CellenONE platform offers single cell isolation and dispensing for downstream omics analysis (2 of 2)
+Additional Single-Cell Analysis Offerings
+       Offering
+CellONE HT
+cellenCHIPs
+proteoCHIPs
+Image
+   Description
+• Fully automated single cell isolator for high throughput monoclonal cell line development
+• Morphology and / or fluorescence image based single cell isolation
+• Isolates 1-50,000 cells with diameters from 0.5-80μm
+• 384-well chips that can either be customized with reagents or oligo- barcodes or come pre-loaded (cellenCHIP 384 3’RNA-seq kit)
+• Can be used for scRNA-seq, scWGS, and scATAC-seq
+• Chips enable sample preparation for MS-based single-cell proteomics
+• proteoCHIP12*16 offers multiplexed proteomics (11- or 16-plex peptide labelling)
+• proteoCHIP LF 48 offers label-free MS analysis
+Competitive Analysis
++ Assurance of monoclonality
++ Acoustic cell isolation tech increases
+cell viability
++ Can run 3 plates in parallel
++ Acoustic cell isolation increases cell viability and preserves gene expression
++ DNA recovery of >95%
++ Miniaturization reduces required assay
+volume by >95%
+- Requires additional sequencer
++ proteoCHIP12*16 detects up to 2,000 proteins per cell and 576 cells per run
++ proteoCHIP LF 48 detects up to 1,000 proteins per cell and 144 cells per run
+- Requires a LC-MS/MS system
+     Source: DeciBio Analysis |64 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Cell Microsystems’ CellRaft AIR System isolates single cells into 96-well plates for downstream analysis (1 of 2)
+  Company Quick Facts
+ Headquarters
+Durham, NC
+Company Type
+Private
+Employee Count
+~30
+Revenue
+N/A
+ Key Commercial Developments
+ Company Summary
+• Develops, manufactures, and markets innovative products for single-cell biology
+      Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+CellRaft Arrays
+ Description
+• Cost-effective method to isolate / recover single-cells for direct analysis or generation of clonal populations
+• Composed of 10,000-153,600 individual rafts, each capable of holding a single-cell
+• Cells may be selected using a wide variety of criteria, including temporal and spatial characteristics
+• Gentle isolation mechanism results in 99% cell viability
+            Competitive Analysis +
++ Specific single-cells can be isolated directly into a PCR / 96-well plate tube for amplification
+Cost-effective compared to price of other isolation techniques
+- Limited integration for downstream sequencing analysis
+- Potential for multiple cell events (e.g., two cells in one raft)
+• Nov 2022: CellRaft AIR System awarded 2022 Novel Product Award at Merck Technology Symposium
+• Oct 2022: Announces distribution agreement with OLS OMNI Life Sciences for distribution of their products in Europe
+• Nov 2021: Raises $12.6M in growth funding
+• March 2021: Broadens portfolio to include antibody discovery and
+organoid cultures
+• Nov 2020: Partners with HIV Cure Center to develop new SC assay
+• April 2019: Receives NIH SBIR $1.9M grant for CRISPR automation on CellRaft
+• January 2019: Raises $1.85M to commercialize SC sorting devices • Sep 2018: Wins NIH SBIR $1.5M grant to continue developing
+single-cell RNA-seq platforms
+  Source:
+DeciBio Analysis
+|65
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Cell Microsystems’ CellRaft AIR System isolates single cells into 96-well plates for downstream analysis (2 of 2)
+Additional Single-Cell Analysis Offerings
+     Offering
+ CellRaft AIR System
+Image
+ Description
+• Fully automated single cell isolation with no minimum sample size requirement
+• Image-based sorting mechanism with 3-channel fluorescence
+• 1-hour TAT for 96 cells
+Competitive Analysis
++ Compatible with most genomics and cloning workflows
++ Comparatively affordable single cell isolator
+- Low throughput
+- Lack of integration with downstream sample prep and analysis technologies
+    Source: DeciBio Analysis |66 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  CellSorter’s platform allows live sorting of specific cells directly into PCR tubes for amplification
+   Company Quick Facts
+ Headquarters
+Budapest, Hungary
+Company Type
+Private
+Employee Count
+<10
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+    • Develops, manufactures and commercializes products and tools for use in bioscience analytical research labs.
+      Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+CellSorter Instrument
+ Description
+• Automated micropipette allows for easy sorting of single-cells from cell culture using fluorescent markers
+• CellSorter software displays map of cell culture, and detected cells
+• 10 PCR strips containing 80 tubes can be filled in a cycle
+     • •
+2019: Receives Hungarian Grant 43M HUF for CellSorter micropipette technology
+2019: Receives European-Hungarian grant 19M HUF for instrument development
+  Competitive Analysis
++ Isolates single-cell directly into a PCR tube for amplification
++ High throughput single-cell sorting
++ Simple workflow
++ Able to select specific cells from a mixture outside the parameters possible with the C1
+DeciBio Analysis
+-
+Lack of integration with downstream analysis techniques
+ Source:
+|67
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  DeepCell has developed a novel AI-based single cell classification and sorting platform, built to support unbiased precision medicine research
+   Company Quick Facts
+ Headquarters
+Menlo Park, California
+Company Type
+Private
+Employee Count
+90
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+ • Provides an AI-driven microfluidics platform that classifies and sorts cells using morphological distinctions
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+DeepCell Platform
+ Description
+• Platform utilizes high-resolution imaging and AI-classification to sort cells
+• Applications include tissue profiling, cell enrichment, and rare cell capture
+         + Unbiased and hypothesis-free cell classification; uses supervised and unsupervised neural networks
++ Cells intact and viable after sorting, allowing downstream analysis
++ Can isolate cell populations as low as one billionth of the total population
+DeciBio Analysis
+- Only available through a Technology Access Program
+- Limited publication data
+• Nov 2022: First installation of Deepcell platform as part of a Technology Access Program
+• Mar 2022: Announces $73M Series B financing
+• Feb 2022: Announces partnership with the Translational Genomics Research Institute (TGen) to characterize melanoma from pre- malignancy through metastasis
+• Oct 2021: Announces collaboration with the University of Zurich to identify and profile melanoma cells and tissues
+• Sep 2021: Announces collaboration with Stanford University to provide data to Tabula Sapiens as part of the Chan Zuckerburg Biohub’s cell atlas
+• Jun 2021: Announces collaboration with UCLA, using morphology to identify and sort cancer cells from clinical cytology samples
+• Dec 2020: Closes $20M Series A financing
+ Competitive Analysis
+    Source:
+|68
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Dolomite Bio is a manufacturer of specialized equipment and reagent kits for single-cell isolation and RNA-Seq (1 of 2)
+   Company Quick Facts
+ Headquarters
+Hertfordshire, UK
+Company Type
+Private
+Employee Count
+~20
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+  • Provider of a single cell genomics cell isolation platform that utilizes Drop-Seq technology
+    Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+Nadia Instrument
+ Description
+• Uses microfluidic-based Drop-seq technology to isolate single cells from a wide range of sample types
+• Potential for researchers to develop novel protocols with the Nadia Innovate attachment that creates an open system
+            Competitive Analysis
++ Runs up to 8 cell samples in parallel, capturing 50,000+ cells per cartridge
++ Quick TAT, in as short as 20 minutes + Flexible protocol capabilities
++ Capture a broad range of cell sizes
+- Limited number of commercial kits currently available
+- Greater technical skill required
+• Dec 2022: Launches RNAdia 2.0 reagent kit
+• Sep 2022: Launches Nadia Go, an open platform for custom
+protocol development
+• Jan 2022: Announces launch of bioinformatics service offering for data analysis obtained with the RNAdiakit
+• Sep 2021: Launches RNAdia kit for single cell RNA-seq
+• May 2021: Announces expansion of distributor list, adding partners
+across APAC and Europe
+• Sep 2020: Offers new SC service offering for scRNA-seq / single nucleus RNA-seq
+• Dec 2019: Collaborates with S2 Genomics to create a streamlined workflow for processing solid tissue into single cells
+• Mar 2019: Partners with PacBio to demonstrate ability to perform single-cell isoform sequencing to identify novel full-length mRNAs
+ - Limited commercial scale
+Presented at AGBT 2019
+   Source:
+DeciBio Analysis
+|69
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Dolomite Bio is a manufacturer of specialized equipment and reagent kits for single-cell isolation and RNA-Seq (2 of 2)
+Additional Single-Cell Analysis Offerings
+       Offering
+Nadia Innovate
+Nadia Go
+RNAdia 2.0
+Image
+  Description
+• An open development version of the Nadia for customizable protocol development and optimization
+• A smaller and more affordable version of the Nadia Innovate
+• Allows for custom microfluidics protocol and application development
+• Kit that enables single cell library preparation on the Nadia Instrument
+Competitive Analysis
++ Users can control droplet size, droplet frequency, temperature, agitation, and timing
++ Protocols developed on the Nadia Innovate can be transferred to the Nadia instrument
+- Limited commercial scale
++ Does not require purchase of a Nadia Instrument for system control and protocol transfers
++ cDNA libraries can be used with standard NGS short-read sequencers and Pacific Biosciences or Oxford Nanopore long-read sequencers
++ More cost effective than other library prep kits
++ cDNA libraries constructed in 6 hours
+- Requires a sequencing machine
+      Source: DeciBio Analysis |70 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Fluent Biosciences is an emerging market player that offers a less expensive library prep alternative
+   Company Quick Facts
+ Headquarters
+Watertown, Massachusetts
+Company Type
+Private
+Employee Count
+<50
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+  • Develops sample prep and analysis tools for single-cell RNA applications
+• Offers kits and full-service lab for sample processing
+    Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+PIPseq (Pre-templated Instant Partitions)
+ Description
+• Simultaneously separates heterogeneous cell mixtures into distinct groups with barcoded template particles
+        + Operates independently of expensive instruments and microfluidic consumables
++ Library prep compatible with Illumina instruments
++ Low cost ($300 per T2 reaction and $900 per T20 reaction
+DeciBio Analysis
+• Feb 2023: Announces launch of PIPSEq v4.0 chemistry for all 3’ Single Cell RNA kits
+• Sep 2022: Launches PIPseq T100 3’ Single Cell RNA kit, enabling large-scale multiomic profiling, and a 96 sample Unique Dual Indexing Kit, enabling sample pooling
+• Jun 2022: Announces launch of PIPseq T2 and T20 v3.0 kits for capture of 2,000 and 20,000 single cells or nuclei
+• Jun 2022: Offers early access to T200 kits (analysis of 200,000 cells / sample) and to Epitope Sequencing Kits (multiomics applications)
+• June 2022: Partners with NanoCollect for scRNA-seq of rare cell populations
+• May 2022: Enables early access to PIPseq T2 and T20 kits
+• Mar 2022: Receives $1.7M SBIR grant for PIPseq launch
+  Competitive Analysis
+- Low to mid throughput
+   Source:
+|71
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Fluxion Biosciences offers platforms to enrich rare cells and integrated workflow options through partnership (e.g., ALS and Rubicon)
+   Company Quick Facts
+ Headquarters
+Alameda, CA
+Company Type
+Private
+Employee Count
+~20
+Company Summary
+• Develops analytical instruments for functional cell-based assays.
+         Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+IsoFluxTM
+ Description
+• Benchtop platform that recovers CTCs and other rare cell types for downstream analysis
+• Enrichment kits available for:
+• CTC enrichment
+• Rare cell enrichment: IgG, streptavidin
+• NGS DNA Kit
+• Also, compatible with range of isolation antibodies
+  N /A
+• Oct 2022: Expands Advanced Therapeutics Discovery Services offering to support increased demand
+• Dec 2019: Fluxion receives US Patent for Ultra-Sensitive Detection of Genomic Alterations, bioinformatics available through Illumina, Swift Biosciences
+• Jan 2014: New Reagent Kit for IsoFlux System facilitates capture of targeted rare cell populations
+• Nov 2012: Launches IsoFlux for Circulating Tumor Cell Analysis: The IsoFlux System is a benchtop instrument that utilizes a proprietary microfluidic technology to isolate CTCs and other rare cell types from blood samples
+Revenue
+     Key Commercial Developments
+     + High CTC recovery, sample integrity, and flexibility
+-
+ Competitive Analysis +
+Optimal for downstream analysis given high recovery (>90%) and low dilution volume (<20uL)
+Low throughput (up to 16 samples / day)
+ Source: DeciBio Analysis
+|72
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Honeycomb Biotechnologies’ HIVE Cell Drives enable the long-term storage of delicate cell types for efficient, centralized processing
+   Company Summary
+Offering
+Description
+•
+Oct 2021: Launches Hive scRNA-seq solution with PerkinElmer
+Company Quick Facts
+  •
+Recent entrant into single cell genomics with technology enabling cost- effective single cell isolation and library preparation
+Headquarters
+Company Type
+Waltham, MA
+Private
+    Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+    HIVE Cell Drives
+  • HIVE isolates cells gently and prepares libraries for scRNA-seq
+• Cellular expression is captured at a specific point of time and locked in
+• Expression can be stored indefinitely, streamlining shipping and processing
+Employee Count
+Revenue
+Key Commercial Developments
+~20
+    N/A
+  Competitive Analysis
++
++ +
+Works to profile even limited samples with as few as a couple hundred cells
+Great for centralized processing
+Designed to work with major liquid handling workflows
+- -
+Limited efforts to commercialize
+Limited clinical applications (e.g., clinical trials) which product is best suited for
+ Source:
+DeciBio Analysis
+|73
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Several companies optimize Illumina’s NGS platforms for downstream use (1 of 3)
+   Company Quick Facts
+ Headquarters
+San Diego, CA
+Company Type
+NASDAQ:ILMN; Mkt. cap $33.84B*
+Employee Count
+>9,000
+Revenue
+~$4.7B (2022)
+ Key Commercial Developments
+Company Summary
+ • Leading developer, manufacturer, and marketer of life science tools and integrated systems for the analysis of genetic variation and function
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+NextSeqTM 1000/2000
+ Description
+• Benchtop workhorse next-generation-sequencing (NGS) platform for a broad set of applications although most competitive for single-cell RNA, exome, and mRNA sequencing
+• Utilize patterned flow cells, allowing for accurate resolution of flow cells
+            Competitive Analysis
++ Highest output, reads per run, and maximum read length of Illumina’s sequencers
++ 1000 Model optimized for turnaround time, lower throughput, lower instrument cost
++ 2000 Model optimized for greater sequencing per sample, larger studies, and better run efficiencies
+- Depending on the application, turnaround time as long as 48 hours
+- Expensive as you sequence greater numbers of single- cells
+• Nov 2022: Launches Solutions Center in Dubai to expand genomics within the UAE
+• Sep 2022: Commercializes NovaSeqTM X series
+• Sep 2022: Announces a higher output P4 flow cell and XLEAP-SBS
+chemistry for the NextSeqTM 1000/2000 to launch in 2024
+• Aug 2022: Opens a manufacturing site in Shanghai to increase product accessibility in China
+• July 2022: Releases DRAGEN v4.0 with expanded SC capabilities • Apr 2022: Opens regional solution center in Brazil to expand
+genomics access in Latin America
+• Nov 2021: Selects Mobidrop Biotechnology, a single cell sequencing microfluidic Dx company, to join the Sequoia Capital China Intelligent Healthcare Genomics Incubator
+• Sep 2021: Acquires ImYoo, a single cell transcriptomics company
+|
+  Note: Source:
++ Very high throughput * Market cap as of 1/24/2023
+DeciBio Analysis
+74
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Several companies optimize Illumina’s NGS platforms for downstream use (2 of 3)
+Additional Single-Cell Analysis Offerings
+       Offering
+NextSeqTM 550
+NovaSeqTM 6000
+NovaSeqTM X
+Image
+   Description
+• Most powerful desktop sequencer after the NextSeq 1000/2000
+• High-throughput sequencing and microarray scanning on single platform
+• Versatile for a broad set of applications
+• Scalable high throughput sequencing system that can deliver up to 6 Tb of output and 20B single-end reads in under 2 days
+• Can mix and match flow cell types, allowing users to choose multiple read lengths and workflows per run
+• Versatile for a broad set of applications
+• Most powerful and high-throughput sequencer Illumina offers
+• Can deliver up to 16 Tb of output and 52B single-end reads (NovaSeq X Plus)
+Competitive Analysis
++ High number of reads and fast turnaround compared to other NGS instruments
+- Lack of integration with upstream cell isolation and sample prep
+- Single cell profiling not a key application
++ Scalable throughput and flexible configurations
++ Streamlined operations and automation friendly
+- Single cell profiling not a key application
+- DRAGEN data analysis on-premise or cloud
++ Utilizes XLEAP-SBS chemistry, which offers greater accuracy than SBS chemistry
++ Onboard or cloud-based data analysis with DRAGEN
+- Single cell profiling not a key application
+     Source: DeciBio Analysis |75 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Several companies optimize Illumina’s NGS platforms for downstream use (3 of 3)
+Additional Single Cell Analysis Offerings
+       Offering
+iSeq100
+iScanTM
+SureCell WTA 3′ Library Prep Kit
+Image
+  Description
+• Entry level next gen sequencer
+• Lower throughput than other Illumina
+models, but at lower cost
+• Designed to bring NGS to more labs without the high CapEx
+• Leading microarray scanner using Illumina’s bead array technology
+• Applications include genotyping arrays, methylation array analysis, and cytogenomics
+• Specifically designed for use with Bio-Rad’s ddSEQ single cell Isolator
+• Co-marketed with Bio-Rad’s ddSEQ instrument as part of the Illumina Bio-Rad single cell Sequencing Solution
+Competitive Analysis
++ Low Upfront Cost ($19,900)*
++ Compatible with existing Illumina reagents
+- Lower throughput
++ Compatible with liquid handling robots and array loaders, enabling automation
++ High-precision and high-throughput scanner
+- Scan time longer than NextSeq 550
+- Expensive as you sequence greater number of single cells
++ Comprehensive single cell RNA sequencing workflow
++ Integrates well with downstream sequencing on Illumina’s NGS products
+- Separate instrument and kit purchasing (e.g., ddSEQ from Bio-Rad and SureCell Kit from Illumina)
+      Source: DeciBio Analysis, company website, Genome Web |76 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  IsoPlexis plays exclusively in single cell proteomics, with their IsoLight system for characterizing functional cell profiles (1 of 2)
+   Company Quick Facts
+ Headquarters
+Branford, CT
+Company Type
+NASDAQ:ISO; Mkt. cap $86.76M*
+Employee Count
+~300
+Revenue
+~$16.7M (2022)
+ Key Commercial Developments
+Company Summary
+   • IsoPlexis offers a complete solution for cell characterization and analysis to facilitate functional immune biology
+        Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+IsoLight System
+ Description
+• Characterizes single cell functional proteomic profiles
+• Intended to be used across research, development, and manufacturing of cell therapies
+          + Automated, hands-free workflow in a benchtop instrument
++ Throughput of 1,000 cell per chip, up to 8 chips simultaneously
++ Highly multiplexed assay, allowing analysis of up to 30 secreted proteins per cell
+* Market cap as of 8/16/2022 DeciBio Analysis
+- -
+Exclusively analyzes protein markers
+Limited applications outside of immune cell profiling and oncology
+• Jan 2023: Announces acquisition by Berkeley Lights and rebranding to PhenomeX
+• Sep 2022: Partners with MediMergent and The Center for Cancer and Blood Disorders for a study of COVID-19 prevention in cancer patients
+• Feb 2022: Opens Shanghai office, establish APAC presence
+• Oct 2021: Completes IPO ($15 / share, 8,333,000 shares)
+• May 2021: Acquires extensive RNA / DNA sequencing portfolio that includes 86 patents and partners with Bucher Biotech to enter Swiss markets
+• Nov 2020: Launches IsoSpark, a personalized lab system with automated workflows that expands on IsoLight
+• Jan 2020: Raises $45M in Series C funding round
+|
+ Competitive Analysis
+  Note: Source:
+77
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  IsoPlexis plays exclusively in single cell proteomics, with their IsoLight system for characterizing functional cell profiles (2 of 2)
+Additional Single Cell Analysis Offerings
+      Offering
+IsoSpark
+IsoCode Chips
+Image
+  Description
+• Smaller version of the IsoLight Platform
+• Capable of running all single cell secretome, intracellular proteomic, and multiomic offerings
+• IsoCode chip consumables run on IsoLight + IsoSpark Platforms
+• Solutions across single cell proteomics, including secretome and intracellular proteome applications
+• Duomic chips capture single cell secretome data and enable off-chip library preparation and sequencing
+Competitive Analysis
++ Automated, hands-free workflow in a benchtop instrument
++ Small 18” footprint, enabling access to smaller labs
+- Low throughput (4 chips per run)
+- Exclusively analyzes protein markers
+- Limited applications outside of immune cell profiling and oncology
++ After sample loading, offers a fully automated solution
++ Obtains functional phenotype of 500-1,000 cells per chip
+at up to 32-plex
+- Panels targeted towards immune cells, with limited applications for other cell types
+- Limited data generated to-date outside of oncology
+     Source: DeciBio Analysis |78 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Menarini Silicon Biosystems offers automation solutions for rare cells alongside preparation and analysis tools (1 of 3)
+   Company Quick Facts
+ Headquarters
+Bologna, Italy
+Company Type
+Private (Owned by Menarini)
+Employee Count
+~160
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+ • Provider of technology for isolation, recovery and analysis of intact, individual rare cells
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+DEPArrayTM PLUS System
+ Description
+• Platform based on proprietary dielectrophoresis technology for the isolation and extraction of single- cells
+• Utilizes a 9-channel fluorescent and bright field microscope to capture images and accurately identify cells of interest
+• Applications include liquid biopsy, tissue biopsy (FFPE), and forensic samples
+           + Compatible with a wide variety of rare cell suspensions including live cells, fixed cells, low cell input, FFPE tissue, and enriched blood
++ Automated sorting and recovery
++ Identification and isolation of cells of interest is
+image-based
++ Commercial NGS library prep kits
+DeciBio Analysis
+- Expensive system
+- Slow isolation of cells (50 minutes for 1,000 cell sample)
+- Lack of integration with downstream sample prep and analysis
+• Oct 2022: Obtains CPT PLA codes for the Circulating Multiple Myeloma Cell and HER2 Circulating Tumor Cell LDTs
+• Dec 2021: Announces DEPArrayTM PLUS application, enabling molecular testing on FFPE samples with low tumor cell contents
+• Nov 2021: Announces commercial launch of CELLSEARCH Circulating Multiple Myeloma Test
+• May 2021: Launches DEPArrayTM PLUS image-based cell sorter
+• Feb 2021: Launches CellMagTM (manual version of CELLSEARCH
+platform)
+• Jun 2020: Announces a co-promotion partnership with OpGen for the CELLSEARCH and Circulating Endothelial Cell Kit
+• Feb 2020: Announces new solutions for single cell isolation and analysis within liquid biopsy in clinical research
+• Oct 2019: Debuts VRNxT technology at annual meeting of the association for molecular pathology
+ Competitive Analysis
+   Source:
+|79
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Menarini Silicon Biosystems offers automation solutions for rare cells alongside preparation and analysis tools (2 of 3)
+Additional Single Cell Analysis Offerings
+       Offering
+CELLSEARCH® System*
+CellMag
+Ampli1TM WGA Kit
+Image
+  Description
+• FDA-cleared and CE-IVD marked system for identification, isolation, and enumeration of CTCs from a simple blood test (approved for monitoring metastatic breast, colorectal and prostate cancer)
+• Detects and enumerates CTCs form a 7.5mL blood sample
+• Technology is based on magnetic beads conjugated to antibodies to detect CTCs
+• Manual version of the CELLSEARCH that performs magnetic-based cell enrichment for enumeration, isolation, and downstream analysis
+• Detects and enumerates CTCs form a 7.5mL blood sample
+• Technology is based on magnetic beads conjugated to antibodies to detect CTCs
+• Developed and optimized for amplification of the total DNA content of a single-cell
+• Applications include SNP and CNV analysis, microsatellite analysis, and comparative genomic hybridization
+• Ampli1TM Sequencing Kits available for PCR amplification of commonly-examined target genes for Sanger sequencing
+Competitive Analysis
++ Provides clinical application for SCA
++ Optimized for MDA and RNA-Seq using
+Nugen’s OvationTM instrument
+- Integrated workflow with Asuragen takes 10 days
+- Only captures limited subsets of CTCs
++ Optimized for use with DEPArrayTM System - Only captures limited subsets of CTCs
++ Suitable for NGS and whole genome sequencing
++ Single tube protocol to minimize template loss
++ Ampli1TM QC kit serves as a quality control check of WGA procedure
+      Source: DeciBio Analysis |80 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Menarini Silicon Biosystems offers automation solutions for rare cells alongside preparation and analysis tools (3 of 3)
+Additional Single Cell Analysis Offerings
+      Offering
+Ampli1 LowPass Kit and Ampli1 OncoSeek Assays
+DEPArray Kits
+Image
+Description
+• Both occurring after the Ampli1 WGA kit in the workflow, enable preparation of NGS libraries for Illumina and Ion Torrent systems
+• LowPass kit allows researchers to characterize genomic heterogeneity in tumor cell populations
+• OncoSeek Panel facilitates detection of SNVs, indels, and CNAs
+• Kits facilitate entire workflow of FFPE sample analysis; kits include: DEPArray FFPE SamplePrep, DEPArray FFPE QC, DEPArray LysePrep, DEPArray OncoSeek, and DEPArray LibPrep kits
+Competitive Analysis
++ Ampli1 LowPass detects chromosomal aneuploidies and copy-number alteration patterns
++ OncoSeek covers 60 relevant genes
++ Streamlined workflow with MSBiosuite platform
++ Works with standard NGS sequencers
++ Require low number of cell inputs
+         Source: DeciBio Analysis |81 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  MGI’s solutions enable single cell RNA sequencing on MGI sequencing platforms; moving forward, MGI looks to expand their reach globally (1 of 2)
+   Company Quick Facts
+ Headquarters
+Company Type
+Employee Count
+Revenue
+Shenzhen, China
+Subsidy of BGI Group (Shenzhen: Mkt cap 22.95B CNY*)
+500-1000
+~6.8B CNY (2021)**
+ Key Commercial Developments
+Company Summary
+  • Leading competitor in NGS sequencing with a wide range of offerings across instrumentation, kits, and analytics
+    Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+DNBelab C4 Pocket Single-Cell Lab
+ Description
+• Microfluidic-based platform captures 1,000 – 4,000 cells per sample
+• Works together with sample prep kit, sequencer, and analysis suite to portably conduct single-cell research
+      + Instrument has a small footprint and does not require an external power supply, facilitating the portable nature of the solution
++ Low cost
+* Market cap as of 2/02/2023; ** Revenue of BGI group DeciBio Analysis
+• Jan 2023: Announces international introduction of DNBSEQ-G99 and at MEDLAB Middle East 2023
+• Nov 2022: Partners with Imperial College London to open a Customer Experience Center in London to expand in Europe
+• Oct 2022: Announces opening of first overseas Customer Experience Center in Riga, Latvia
+• Sep 2022: Announces launch of DNBSEQ-G99 in China
+• Sep 2022: Raises $518M in Shanghai IPO
+• Sep 2022: Opens a state-of-the-art demo lab in Tokyo, Japan
+• Aug 2022: IBO Design Gold Award for DNBelab C4 Pocket SC Lab • Jun 2022: DNBSEQ Sequencers commercially available in US
+|
+ Competitive Analysis
+- Low throughput
+    Note: Source:
+82
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  MGI’s solutions enable single-cell RNA sequencing on MGI sequencing platforms; moving forward, MGI looks to expand their reach globally (1 of 2)
+Additional Single Cell Analysis Offerings
+       Offering
+DNBSEQ-G50
+DNBSEQ-G99
+DNBSEQ-T77
+Image
+   Description
+• Benchtop sequencer that utilizes two types of flow cells to enable either a shorter TAT (FCS) or a lower cost assay (FCL)
+• Featured applications include low-pass whole genome, targeted, small whole genome, RNA, and whole exome sequencing
+• Mid to low-throughput sequencer utilizing DNBSEQ sequencing technology
+• 9th version released, with upgrades to the biochemical, fluidics and optical systems
+• Featured applications include whole genome, deep exome, epigenome, transcriptome, and tumor panel sequencing
+• MGI fastest, ultra-high throughput sequencer
+• Allows for simultaneous and independent operation of four different flow cells; various applications (e.g., scRNA-seq, WES, WGS) can run at the same time
+• Featured applications include whole genome, deep exome, epigenome, transcriptome, and tumor panel sequencing
+Competitive Analysis
++ Flexible throughput of 100M / 500M for whole genome sequencing
++ Offers flexibility with 3-4 read length options for FCF and FCL flow cells
++ More affordable option
+- PE150 sequencing runs take 40 hours
++ Dual flow cell capabilities that can be run with independent read lengths at once
++ Two configurations available; comes with option for a built-in bioinformatics module
++ 12 hour run for PE150
++ High-throughput sequencer that can run 4 flow cells at a time and produce 1-4T/day
++ High-throughput automated sample preparation system
+- Requires MGIDL-T7 to prepare flow cells for sequencing
+- SC sequencing not a primary application
+     Source: DeciBio Analysis |83 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Miltenyi Biotec is a leader in cell separation technologies, isolating cell populations for downstream analysis (1 of 3)
+   Company Quick Facts
+ Headquarters
+Bergisch Gladbach, Germany
+Company Type
+Private
+Employee Count
+~3,000
+Company Summary
+ • A biotech company providing instruments, reagents and services for biomedical research and cellular therapy
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+autoMACS ® Pro Separator
+Description
+• Featuring MACS® Technology, autoMACS Pro Separator a benchtop instrument for high- speed magnetic cell sorting multiple samples
+• The compatibility with flow cytometry allows the use of the autoMACS Pro Separator as an alternative to flow sorting
+           + Fully automated
++ Cells can be isolated directly from whole blood
+and bone marrow samples
++ Cell functionality preserved during isolation
++ Complete MACS Cell Separation rgts portfolio
+Revenue N/A
+Key Commercial Developments
+• Dec 2021: Acquires Laage production site that will allow MACS to expand production capacities and future expansion of production at Teterow site
+• Jan 2020: Launches MACSQuant Tyto, the first operator-free GMP- compliant cell sorting system
+• Sep 2017: Launches MACSQuant X a high through put flow cytometry instrument
+• April 2013: Acquires Owl biomedical, Inc
+• Jan 2013: Releases FlowJo 10 software in Europe
+  Competitive Analysis
+-
+Lack of integration with downstream sample prep and analysis
+ Source:
+DeciBio Analysis
+|84
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Miltenyi Biotec is a leader in cell separation technologies, isolating cell populations for downstream analysis (2 of 3)
+Additional Single Cell Analysis Offerings
+       Offering
+MultiMACS Cell24 Separator Plus
+MultiMACS X Separator
+MACSQuant Analyzer Flow Cytometer
+Image
+   Description
+• Semi-automated cell separation instrument for use with MACS Cell Separation reagents
+• Pipetting steps performed manually by user and vacuum-driven elution
+• Integrated liquid handling system
+• Fully automated high-throughput cell
+separation instrument
+• Records barcoded sample info, tracks lot
+numbers / exp. dates of MicroBeads + kits
+• Documentation software can be integrated
+into LIMS*
+• Benchtop flow cytometer for the mining of rare cells, analysis of cell manufacturing process, other research applications
+• Flexible assay setup, switching between tubes only requires one button
+Competitive Analysis
++ Performs cell elution automatically
++ Processes up to 24 samples at once
+- Capable of only positive or untouched
+isolation, requires a column
+- Recommended MACS reagents expensive
++ Fully automated workflow
+- Capable of only positive or untouched
+isolation, and requires a column
+- Recommended MACS reagents expensive
++ Hands-free workflow
++ Facilitates alignment in data generated
+between multiple instruments / labs
+     Note: * LIMS = laboratory information management system Source: DeciBio Analysis
+|
+85
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Miltenyi Biotec is a leader in cell separation technologies, isolating cell populations for downstream analysis (3 of 3)
+Additional Single Cell Analysis Offerings
+     Offering
+ GentleMACSTM Dissociator
+Image
+Description
+• Benchtop instrument for the automated dissociation of tissues into single-cell suspensions or thorough homogenates
+• Up to two samples can be processed in parallel
+• Safe and sterile: sample handling in a closed system
+• 20+ compatible kits available for various tissue types
+Competitive Analysis
++ Fully automated hands-free processing
++ Allow customers to develop and share their protocols for isolation of different tissue types
+- Lack of integration with downstream sample prep and analysis
+- Low throughput
+     Source: DeciBio Analysis |86 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Mission Bio’s is well positioned in multiomics’ the Tapestri Platform is the first to enable DNA and protein assessment from a single cell
+   Company Quick Facts
+ Headquarters
+South San Francisco, CA
+Company Type
+Private
+Employee Count
+~150
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+ • Recent competitor in high-throughput, single-cell, multiomics analysis for oncology and genome editing
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+Tapestri Platform
+ Description
+• Detects SNVs, CNVs, and proteins from SCs
+• Panels for hematology and solid tumor
+research, custom panels available
+• Pair with Tapestri Pipeline and Tapestri Insights for data analysis and visualization
+           Competitive Analysis
++ High throughput of up to 10,000 cells on small footprint instrument
++ Easily fits into existing NGS workflow
++ Focused on DNA, has multiomic capabilities
++ Focus on clinical / translational Rx
+- Reduced capture efficiency based on two- step approach
+- No commercialized RNA approach
+• Dec 2022: Partners with Abiosciences to improve bioinformatics analysis packages for hematologic cancers
+• Nov 2022: Deploys single-cell transduction assay across AVROBIO’s lysosomal disorder pipeline
+• Oct 2022: Commercializes the Tapestri VCN Assay, a high throughput assay to quantify vector copy number / transduction level
+• Jul 2022: Launches new cancer assays and MRD program
+• Mar 2022: Releases first-in-class solid tumor solution and first
+center of excellence for Tapestri solid tumor single-cell research • Oct 2021: Launches single-cell multiomics platform
+• Apr 2021: Releases pharma assay development services
+• Aug 2020: Raises $70M in Series C funding
+• May 2020: Launches custom panel designer for mouse genomes and CRISPR editing for cancer research
+     Source:
+DeciBio Analysis
+|87
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Namocell offers single cell isolation instrumentation via their Namo and Hana single cell dispensers that enrich for rare cell populations
+   Company Quick Facts
+ Headquarters
+Mountain View, CA
+Company Type
+Private
+Employee Count
+11-50
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+   • Focused on cell sorting and dispensing for downstream applications
+       Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+HanaTM and PalaTM Single Cell Dispensers
+ Description
+• Microfluidic-based technology that combines flow cytometry and liquid dispensing to sort and dispenses cells into well plates
+• HanaTM relies exclusively on light scatter and one laser (2 fluorescent channels), whereas the PalaTM light scatter and two lasers (11 fluorescent channels)
+           Competitive Analysis
++ Low-cost, flexible cell sorting
++ Fast sorting with 1 minute / 96-well plate
++ More gentle than comparable cell sorters, preserving cell viability and integrity
+-
+Limited commercial scale
+• May 2021: Enters into distribution agreement with SingLab Distribution in Singapore
+• Mar 2021: Partners with OLS to enter Germany & Austria
+• Feb 2020: Announces collaboration with Takara Bio and HepaTx to collaborate on single cell genomics for cell therapy to treat liver disease
+• Jul 2018: Expands global footprint of cell dispensers via partnership with BIOKE distributor
+• Oct 2016: Partners with Stanford to evaluate technology in cancer cells
+  Source:
+DeciBio Analysis
+|88
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  NanoCellect’s Wolf Cell Sorter improves cell viability and RNA quality through novel sorting mechanisms that differ from typical jet-in-air sorting
+   Company Quick Facts
+ Headquarters
+San Diego, CA
+Company Type
+Private
+Employee Count
+<100
+Revenue
+N/A
+ Commercial Developments
+Company Summary
+ • Wolf Cell Sorter and N1 Dispenser module
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+Wolf / Wolf G2 Cell Sorter, N1 Dispenser Module
+ Description
+• Utilizes microfluidics and novel cell sorting technology to sort cells more delicately and improve cell viability
+• Use cases across cell line development, gene editing, SCA, and discovery
+• The Wolf has one laser and up to 3 colors, while the Wolf G2 has 2 lasers and up to 9 colors
+          +
+Competitive Analysis +
+Portable instrument w/ a small footprint
+Lowers costs by using growth media as sheath fluid
+-
+Limited commercial scale
+• Aug 2022: Announces $1.8M Phase II Small Business Innovation Research grant to develop cell sorting with the use of AI
+• Jun 2022: Announces collaboration with Fluent BioSciences to improve single-cell RNA sequencing analysis of rare cell populations
+• Sep 2021: Partners with Alliance Global to expand distribution in Middle East and Africa
+• Sep 2021: Closes $35M in Series C and D financing
+• May 2021: Announces the virtual launch of the WOLF G2
+• Aug 2020: Strengthens partnerships to expand distribution network across East Asia and Western Europe
+   Source: DeciBio Analysis
+|89
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  NanoString, an early entrant into the SCA market, has pivoted to become a leader in spatial transcriptomic profiling (1 of 2)
+   Company Quick Facts
+ Headquarters
+Seattle, WA
+Company Type
+Public (NASDAQ: NSTG; Mkt cap $719.73M*)
+Employee Count
+~750
+Revenue
+~$127M (2022)
+ Key Commercial Developments
+Company Summary
+ • Provider of life science tools for translational research and molecular diagnostic products
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+nCounter® Pro Analysis System
+Description
+• A cost-effective way to profile hundreds of mRNAs, microRNAs, or DNA targets
+• Uses single molecular fluorescence “barcodes” and single molecule imaging to detect and count hundreds of unique transcripts in a single reaction
+• Digital detection of target molecules and high multiplexing increases sensitivity / reproducibility
+           Competitive Analysis
++ Highly multiplex (up to 800 genes)
++ Single tube eliminates need for sample partitioning + Fully automated and low hands-on-time
++ Validated to enable 21 CFR Part 11 environment
+- Low throughput (12 samples per run, 3 runs per day)
+- High throughput multiplexing option analyzes fewer genes per cell
+- Lack of integration with upstream cell isolation / prep
+• Jan 2023: Predicts nCounter business to continue shrinking throughout 2023 as company focuses on growing spatial platforms
+• Apr 2022: Announces launch of nCounter Pro Analysis System
+• Jun 2021: Announces collaboration with the Parker Institute for Cancer Immunotherapy to utilize the nCounter for CAR-T characterization
+• Dec 2019: Licenses Diagnostic Assets of nCounter to Veracyte; NanoString to focus on research applications for technologies
+• Jan 2018: Partners with RikenGenesis
+• Sep 2013: Partners with BD Biosciences
+  Note: Source:
+* Market cap as of 8/16/2022 DeciBio Analysis
+|
+90
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  NanoString, an early entrant into the SCA market, has pivoted to become a leader in spatial transcriptomic profiling (2 of 2)
+Additional Single Cell Analysis Offerings
+      Offering
+nCounter® Sprint Profiler
+nCounter® Gene Expression CodeSets
+Image
+ Description
+• Lower throughput benchtop design of the nCounter Pro
+• Uses single molecular fluorescence “barcodes” and single molecule imaging to detect and count hundreds of unique transcripts in a single reaction
+• Digital detection of target molecules and high multiplexing increases sensitivity / reproducibility
+• Analyze up to 800 genes simultaneously
+• CodeSets designed for the nCounter® System
+• Provides a method for direct detection of mRNAs with
+molecular barcodes
+• Broad mix of pre-built panels, virtual panels and custom CodeSets
+• Analyze up to 800 genes simultaneously
+Competitive Analysis
++ Less expensive than the nCounter Pro
++ Benchtop system designed for research labs
+- Lower throughput (12 samples per run, 2 runs per day)
+- High throughput multiplexing option analyzes fewer genes per cell
+- Lack of integration with upstream cell isolation / prep
++ Ultra-sensitive (100ng of RNA or ~10,000 cells without amplification or single-cell with amplification)
++ Highly multiplex (up to 800 genes)
+- Low throughput
+- Lack of integration with upstream cell isolation and preparation
+      Source: DeciBio Analysis |91 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Parse Biosciences, a university spin-out, innovates by compartmentalizing nuclei into individual reactions for whole transcriptome single-cell seq
+   Company Quick Facts
+ Headquarters
+Seattle, WA
+Company Type
+Private
+Employee Count
+~90
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+ • Develops a combinatorial barcode technology for single-cell and single nuclei sequencing that improves project scalability without an instrument
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+EvercodeTM Whole Transcriptome
+ Description
+• Siloes individual cells or nuclei into individual reaction compartments and stabilizes them for downstream use
+• Three versions: WT Mini (10k cells, 12 samples), WT (100k cells, 48 samples), and WT Mega (1M cells, 96 samples)
+          Competitive Analysis
++ Fixes samples in stable-state for up to 6 months
++ Split-pool combinatorial barcoding technology improves scalability
++ Compatible with Illumina sequencers
+- Scalability may be limited
+• Oct 2022: Announces cloud analysis software for single-cell RNA-seq data analysis, co-developed with DNAnexus
+• Aug 2022: Launches upgraded chemistry for EvercodeTM Whole Transcriptome products
+• Jun 2022: Announces partnership with Molecular Diagnostics Korea to expand presence in South Korea
+• Apr 2022: Offers early access for targeted single-cell sequencing and single-cell CRISPR assays; announces plans for early access of single-cell ATAC-seq and immune-cell receptor profiling kit 2H 2022
+• Feb 2022: Raises $41.5M Series B financing
+• Jan 2022: Partners with Research Instruments Group to offer assays in Singapore and Southeast Asia
+   Source: DeciBio Analysis
+|92
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Parse Biosciences, a university spin-out, innovates by compartmentalizing nuclei into individual reactions for single-cell seq (2 of 2)
+Additional Single Cell Analysis Offerings
+     Offering
+ EvercodeTM TCR
+Image
+ Description
+• T Cell Receptor profiling combined with whole transcriptome analysis
+• Siloes individual cells or nuclei into individual reaction compartments and stabilizes them for
+downstream use
+• Three versions: WT Mini (10k cells, 12 samples), WT (100k cells, 48 samples), and WT Mega (1M cells, 96 samples)
+Competitive Analysis
++ Fixes samples in stable-state for up to 6 months
++ Split-pool combinatorial barcoding technology improves scalability
++ Compatible with Illumina sequencers
+- Scalability may be limited
+    Source: DeciBio Analysis |93 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Qiagen offers whole genome/transcriptome amplification kits for SCA and is partnering to offer isolation technologies for workflow integration (1 of 3)
+   Company Quick Facts
+ Headquarters
+Venlo, Netherlands
+Company Type
+Public (NYSE:QGEN; Mkt cap ~$11.39B*)
+Employee Count
+~4,500
+Revenue
+~$2.25B (2022)
+ Key Commercial Developments
+Company Summary
+    • Leading supplier of sample and assay technologies used to isolate and process DNA, RNA and proteins from biological samples (e.g., tissue, blood)
+      Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+REPLI-g® single-cell Kit
+ Description
+• Reagents for amplifying DNA from single-cells in preparation for downstream analysis
+• Utilizes multiple displacement amplification (MDA), which involves binding of random hexamers to denatured DNA
+• Generates more sequence information than PCR-based WGA methods
+            Competitive Analysis
++ WGA from single-cell material with complete genome coverage
++ Unbiased amplification of genomic loci due to MDA tech
++ Optimized for use with new technologies, including NGS
++ Consistent yields of up to 40 μg (average product length >10 kb)
+- Does not work on fixed
+cells
+• Jan 2023: Launched newest CLC Single Cell Analysis Module commercial plugin; supports analysis of scATAC-seq data
+• Oct 2018: Announces launch of QIAseq FastSelect RNA removal kit enabling simpler library prep for RNA-seq
+• Nov 2016: Partners with Zeiss Microscopy promotes Qiagen’s QIAscout instrument as an add-on feature to Zeiss’ inverted microscopes
+• Oct 2016: Launches QIAscout, instrument for single-cell isolation
+• Feb 2016: Partners with 10x Genomics to co-develop sample tech.
+for use on 10x’s platform for single-cell analysis
+• July 2015: Cell Microsystems partnership; Qiagen commercializes CM’s CellRaft Array, a technology to isolate / analyze single cells
+• Feb 2014: Launches REPLI-g single-cell WGA / WTA Kit, designed to improve sample access by optimizing WGA / WTA from SCs
+  Note: Source:
+* Market cap as of 1/26/2022; In March 2020, Thermo-Fisher entered into an agreement to acquire QIAGEN for ~$12B, though the acquisition agreement was terminated in August 2020 DeciBio Analysis
+|
+94
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Qiagen offers whole genome/transcriptome amplification kits for SCA and is partnering to offer isolation technologies for workflow integration (2 of 3)
+Additional Single Cell Analysis Offerings
+       Offering
+REPLI-g® WTA Single-cell KIT
+QIAseq FX Single Cell RNA Library Kit
+QIAseq Single Cell RNA Library Kits UDI
+Image
+   Description
+• Reagents for amplifying RNA from SCs in prep. for downstream transcriptome analysis
+• Utilizes MDA to uniformly amplify cDNA across entire transcriptome with minimal sequence bias
+• Innovative lysis buffer effectively stabilizes cellular RNA
+• Library preparation kit for single cell RNA- seq or samples with low RNA
+• Positioned for use in transcript discovery and differential gene expression
+• Can detect both mRNA and lncRNA
+• Library preparation kit for single cell mRNA or WTA that includes QIAseq beads and UDI barcoded adaptors for use with Illumina sequencers
+• Kit purchase comes with access to Gene Globe-integrated RNA-seq Analysis portal
+Competitive Analysis
++ WTA from single-cell material with complete transcriptome coverage
++ Unbiased WTA due to MDA technology
++ Optimized for use w/ new techs (e.g., NGS)
++ High number of mappable reads
+- Does not work on fixed cells
++ PCR-free protocol reduces bias and increases kit reproducibility
++ MDA technology increases kit efficiency
++ Library amplification not necessary
++ Library preparation complete in 5.5 hours
+- Lack of integration w/ downstream analysis
++ PCR-free protocol reduces bias and increases kit reproducibility
++ MDA technology increases kit efficiency
++ Library amplification not necessary
++ Library preparation complete in 5.5 hours
++ Workflow integration w/ Illumina sequencers
+     Source: DeciBio Analysis |95 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Qiagen offers whole genome/transcriptome amplification kits for SCA and is partnering to offer isolation technologies for workflow integration (3 of 3)
+Additional Single Cell Analysis Offerings
+      Offering
+QIAseq FX Single Cell DNA Library Kit
+QIAseq Single Cell DNA Library Kits UDI
+Image
+  Description
+• Library preparation kit for whole genome sequencing from single eukaryotic or bacterial cells
+• Featured applications include analysis of inter-cellular genome heterogeneity, mutation detection, CNV analysis, and aneuploidy analysis
+• Library preparation kit for single whole genome analysis that includes QIAseq beads and barcoded adaptors for use with Illumina sequencers
+• Featured applications include target specific enrichment of small DNA genomes, analysis of inter-cellular genome heterogeneity, mutation detection, CNV analysis, and aneuploidy analysis
+Competitive Analysis
++ Comprehensive genome coverage and sequence fidelity, resulting in reduced false positive and drop-out rates
++ MDA technology minimizes GC-bias, enabling library diversity and maximum genome coverage
++ Library preparation complete in 3.5 hours
+- Lack of integration with downstream analysis
++ Comprehensive genome coverage and sequence fidelity, resulting in reduced false positive and drop-out rates
++ MDA technology minimizes GC-bias, enabling library diversity and maximum genome coverage
++ Library preparation complete in 3.5 hours
++ Ready for workflow integration with Illumina sequencers
+     Source: DeciBio Analysis |96 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Singleron offers single cell technology and services, with an emphasis on clinical research and molecular diagnostics (1 of 2)
+   Company Quick Facts
+ Headquarters
+Cologne, Germany
+Company Type
+Private
+Employee Count
+500+
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+ • Provides instruments, kits, and technology to apply SCA to clinical diagnosis, drug development, and health; provides single cell sequencing services to customers in the EU and APAC
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+Matrix Single Cell Processing System
+ Description
+• Automated microfluidics-based platform designed to prepare SC sequencing libraries
+• Compatible with Illumina sequencers; Modifications necessary for compatibility with PacBio and MGI sequencers
+       Competitive Analysis
++ Ability to capture up to 30,00 single cells per - chip -
++ Cell separation, cell lysis, and mRNA capture in 30 minutes
+Low sample throughput Limited publication data
+• Nov 2022: Launches ProMoSCOPE, a kit that can be used to detect single-cell glycosylation within the whole transcriptome
+• Mar 2022: Acquires Proteona to strengthen SC multiomic capabilities and gain expertise in translational and clinical research
+• Mar 2021: Announces collaboration with Agilent to develop QC procedures for processing clinical samples
+• Mar 2021: Announces partnership with XtalPi for use of their AI platform to co-discover and develop targeted therapies for cancer
+• Jul 2021: Launches Singleron PythoN Automated Tissue Dissociation System
+• Mar 2021: Receives CE mark for Singleron Matrix
+• Aug 2020: Announces alliance with Berry Genomics to build a SC
+system and sequencing solutions
+• Jun 2020: Launches Singleron Matrix
+    Source:
+DeciBio Analysis
+|97
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Singleron offers single cell technology and services, with an emphasis on clinical research and molecular diagnostics (2 of 2)
+Additional Single Cell Analysis Offerings
+       Offering
+PythoN Tissue Dissociation System
+SCOPE Library Kits
+SynEcoSys Single Cell Database
+Image
+   Description
+• Integration of mechanical and enzymatic tissue dissociation into a SC suspension
+• System equipped with dissociation reagents and tubes for automatic sample processing
+• Each kit contains a microwell chip for cell partitioning, AccuraCell beads for barcoding and mRNA capture, and amplification / library construction master mixes
+• Applications include expression profiling, immune receptor profiling, and multiomics
+• Data mining platform that integrates publicly available single cell sequencing data with analysis and visualization tools
+• Platform standardizes data so it can be compared across studies
+Competitive Analysis
++ Processes samples within 15 minutes
++ Compatible with 200+ tissue types and
+sample input from 10-4,000 mg
++ Compatible with PacBio full-length mRNA sequencing
+- Mid samplethroughput
++ Kits can be completed manually or automatically with the Matrix Instrument
++ Tissue processing reagents designed for maximal cell viability
++ Ability to import new data to compare across publicly available datasets
++ Included data spans different diseases, treatment conditions, and organs
+     Source: DeciBio Analysis |98 Confidential | ©2023 DeciBio. All rights reserved.
+ DRAFT
+  Standard BioTools* has deemphasized SCA but has had recent success in proteomics and is positioned to address single-cell multiomics (1 of 2)
+   Company Quick Facts
+ Headquarters
+South San Francisco, CA
+Company Type
+NASDAQ:FLDM, Mkt. cap $153.22M**
+Employee Count
+~500
+Revenue
+~$131M (2021)
+ Key Commercial Developments
+Company Summary
+   • A biotech tools company that creates microfluidic-based chips and instrumentation for biological research.
+        Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+C1TM Single-Cell Auto Prep System
+ Description
+• Single-cell isolation, preparation and integrated workflow for downstream analysis
+• Bench top platform enables the automated isolation, lysis, and pre-amplification of single-cells
+• C1 Open App Program allows scientists to build and share new single-cell applications, such as single-cell epigenetics
+           Competitive Analysis
++ Fully automated isolation and sample prep
++ New chip supports transcriptome sequencing of up to
+800 single-cells
++ New Medium-Cell HT IFC increases capture efficiency of medium size (10 – 17 μm) cells
+- Low cell isolation efficiency; requires large number of cells to isolate 96 on the chip
+- Need to enrich cells before loading on C1
+• Oct 2022: Launches X9 Real-Time PCR System
+• Aug 2022: Announces a reduction in R&D and marketing for
+the microfluidics business
+• Apr 2022: Announces $250M strategic capital infusion and rebrands from Fluidigm to Standard BioTools
+• Nov 2021: Launches Biomark X, an integration of the Fluidigm Juno and Biomark HD instruments in one platform
+• Sep 2019: Fluidigm files infringement suit against IONpath • Aug 2019: Collaborates with Fluidigm and Mount Sinai for
+single-cell human epigenome study
+• Sep 2018: Fluidigm announces single cell whole transcriptome RNAseq applications for C1
+  Note: Source:
+* Previously called Fluidigm; ** Market cap as of 8/16/2022 DeciBio Analysis
+|
+99
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Standard BioTools has deemphasized SCA but has had recent success in proteomics and is positioned to address single-cell multiomics (2 of 2)
+Additional Single-Cell Analysis Offerings
+     Offering
+ X9 Real-Time PCR System
+Image
+Description
+• Microfluidics-based automated platform with multiple applications including gene expression, genotyping, SNP detection, and CNV analysis
+• System uses integrated fluidic circuits that can run 48 samples and assays,
+• Compatible with most sequencing platforms
+Competitive Analysis
++ High precision and reproducibility across replicates
++ Mid-to-high throughput; integrated fluidic circuits can run 48 samples and assays, 96 samples and assays, or 192
+samples and 24 assays
+- Positioned as a solution for agricultural biology, biobanking and pharmacogenomics
+     Source: DeciBio Analysis 100 |
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  S2 Genomics offers automated tissue dissociation workflows that have emerging applications in the industry
+   Company Quick Facts
+ Headquarters
+Livermore, CA
+Company Type
+Private
+Employee Count
+~20
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+• Developing integrated sample preparation systems for tissue samples to isolate single cells or nuclei in addition to SC spatial sequencing technology for NGS
+   Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+    Offering
+SingulatorTM 100
+ Description
+• Bench-top system allowing for hands-off tissue dissociations into SC / nuclei suspensions
+• Single cells dissociated in 20-60 minutes; nuclei dissociated in 6-10 minutes
+• Accepts fresh tissue (cells) w/ 70-95% viability + fresh, frozen, or OCT tissue (nuclei) w/ variable viability
+          + Pre-set protocols and pre-formulated reagents for mouse, rat, and human tissues available through easy-to-use software
+Use own reagents and create custom protocols
+- Single-use cartridges can become expensive
+• Jan 2023: Enters distribution agreement with Bonsailab for expansion in Spain and Portugal
+• Sep 2022: Partners with Proteigene to expand distribution in France Techtum Lab Ab for distribution in Scandanavia
+• Aug 2022: Announces distribution agreement with Eisenberg for expansion in Israel
+• Jun 2022: Launches NIC+ Small Volume Cartridge for sub-20 mg samples
+• Apr 2022: Co-marketing partnership with Mission Bio to offer a single streamlined workflow for solid tumors (sample prep through analysis)
+• Feb 2022: Marketing agreement w/ Applied Cells to integrate Singulator 100 system, MARS Acoustics, Magnetic techs into a single tissue sample prep workflow
+ Competitive Analysis +
+ Source:
+101
++ Internal camera + progress bar, monitor tissue dissociation in real time
+DeciBio Analysis, company website, LinkedIn
+|
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  StemCell Technologies provides tissue dissociation reagents and cell isolation technology, however SCA is not a primary focus
+   Company Quick Facts
+ Headquarters
+Vancouver, Canada
+Company Type
+Private
+Employee Count
+~1,500
+Revenue
+N/A
+ Key Commercial Developments
+Company Summary
+ • A biotech company specializing in cell separation technologies, culture media, and contract assay services to support stem cell, immunology, regenerative medicine, cellular therapy research
+     Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+EasySepTM Magnet
+ Description
+• Magnet designed for column-free immunomagnetic cell separation; used with EasySep reagents
+• Functions by generation a high-gradient magnet field inside it to separate cells tagged with EasySep magnetic particles
+         Competitive Analysis
+Source:
+DeciBio Analysis, company website, LinkedIn
+102
++ RoboSep version allows for fully automated labeling and cell separation
++ Can be used for positive or negative selection
++ EasySep magnetic particles are flow cytometry-compatible
+-
+EasySep magnetic particles cannot be removed after enrichment, but should not impact downstream applications
+• Apr 2022: Collaboration with Applied Cells to deliver a high- performance cell separation solution combining MARS platform with EasySep immunomagnetic cell separation kits
+• Apr 2018: Joint funding agreement with Governments of Canada and British Columbia to build a state-of-the-art advanced manufacturing facility
+• Jan 2017: Opened Cambridge-based facility to expand presence in UK and Europe
+Confidential | ©2023 DeciBio. All rights reserved.
+|
+ DRAFT
+  Takara Bio USA has a full suite of SCA offerings including its ICELL8 Single-Cell System and libraries for transcriptomic analysis (1 of 4)
+   Company Quick Facts
+ Headquarters
+Mountain View, CA
+Company Type
+TOKYO: Mkt cap ~208.08B JPY*
+Employee Count
+~1,500
+Revenue
+~67.7B JPY (2022FY)
+ Key Commercial Developments
+Company Summary
+   • Provides kits, reagents, and services that help researchers explore questions about gene discovery, regulation, and function
+       Keystone Single Cell Offering
+Tissue Dissociation Single Cell Sample Prep Downstream Informatics Isolation Analysis
+      Offering
+ICell8 Single-Cell System
+ Description
+• Modular system developed for single-cell isolation through individual well barcoding
+• CellSelect software allows automatic selection for cells of interest and user control over how to process samples for downstream applications
+       Competitive Analysis
++ Ability to isolate up to 1,800 single-cells across a broad range of cell sizes per sample, 5 – 100 μm
++ Ability to selectively process only single-cell containing wells of interest
+- -
+Mid- to low throughput High capital expenditure
+• Oct 2021: Launches new Smart-Seq Pro kit
+• Feb 2020: Announces collaboration w/ Namocell + HepaTx to collaborate
+on SCA for cell therapy to treat liver disease
+• Jun 2017: FORMULATRIX® partnership to generate SOPs for researchers decreasing reaction volumes in reverse transcription steps of SC sequencing workflows
+• Jan 2017: Acquires Rubicon and Wafergen to strengthen its position in single-cell pre-analytical sample prep
+• Nov 2016: Inks supply deal of Smart-Seq RNA Kit with Allen Institute for use in gene expression profiling of brain cells
+• Apr 2016: Releases Smart-Seq v4 Ultra Low RNA Kit with Fluidigm to allow for high-quality cDNA synthesis following cell isolation step on the Fluidigm C1 System
+• May 2013: Releases SMARTer® Universal Low Input RNA Kit for NGS, facilitating RNA-seq from degraded total RNA samples acquired via sample prep. techniques (e.g., FFPE, LCM)
+Note: Source:
+* Market cap as of 2/02/2022 DeciBio Analysis
+|
+ Confidential | ©2023 DeciBio. All rights reserved.
+103
+DRAFT
+  Takara Bio USA has a full suite of SCA offerings including its ICELL8 Single-Cell System and libraries for transcriptomic analysis (2 of 4)
+Additional Single-Cell Analysis Offerings
+       Offering
+PicoPLEXTM Single Cell WGA Kit*
+PicoPLEXTM DNA-seq Kit*
+PicoPLEXTM Gold Single-Cell DNA-Seq Kit
+Image
+   Description
+• Whole genome amplification kit designed for single-cell analysis
+• Designed to be performed in a single tube or well
+• Successful amplification in 95+% of sorted cells
+• Measuring aneuploidy, CNV, and allele representation
+• Single-cell library preparation for Illumina NGS platforms
+• 48 reactions to convert 48 individual cells or DNA to NGS libraries
+• Designed for use in single tube or well
+• Works on single-cells with input concentrations of ≤6 pg
+• Suitable for profiling CNVs, SNVs, indels, other small structural variants
+• Compatible with single cells / purified DNA from humans, animals, bacteria / single flow-sorted chromosomes
+Competitive Analysis
++ Developed specifically for SC and picogram quantities of DNA
++ Very low background noise
++ Compatible with microarray, PCR or NGS
+analysis
++ SCA clinical applications (PGS/PGD)
+- Low throughput
++ Single tube minimizes error / reduces costs
++ Highly reproducible CNV detection over
+entire genome
++ Library preparation < 3 hours
+- Optimized only for Illumina NGS platforms
+- Not good for high-coverage, deep sequencing
++ Workflow can be completed in less than four hours
++ Can be used with fixed cells
+- Optimized for Illumina NGS platforms
+     Source: DeciBio Analysis 104 |
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Takara Bio USA has a full suite of SCA offerings including its ICELL8 Single-Cell System and libraries for transcriptomic analysis (3 of 4)
+Additional Single-Cell Analysis Offerings
+        Offering
+ICELL8 cx Chips / Consumables
+Apollo NGS Library Prep System
+SMART-Seq® Stranded Kit
+SMART-Seq® v4 3’ DE Kit
+Image
+   Description
+• Accessories, plasticware, consumables, and chips for ICELL8 cx Single-Cell System
+• Applications include full-length transcriptome analysis, human TCR profiling and 5’ DE, differential expression, and ATAC-seq
+• Chips utilize SmartChip films
+• Automated liquid handler providing walkaway NGS library prep
+• Validated scripts, optimized plug- and-play PrepX chemistries for DNA-, RNA-, and ChIP-Seq
+• Generates strand-specific RNA- seq libraries for Illumina® sequencing platforms
+• Good for 1–1k sorted cells or 10 pg–10 ng of purified total RNA
+• Designed to deliver reproducible + highly sensitive data from single cells with a short and user-friendly workflow
+• Generates libraries for differential expression analysis
+• Cell barcodes enable pooling of up to 12 samples per Illumina index pair and up to 1,152 samples per sequencing lane
+Competitive Analysis
++ Consumables can be used with validated ICELL8 cx workflows or custom workflows to generate NGS libraries for single-cell applications
++ Listed 9 reagent kits validated for use with Apollo system, including one Takara kit (SMART-Seq v4 Reagent Kit)
+- Optimized for use with Illumina kits
++ Additional rRNA removal methods / kits not required; retains strand-of-origin information in sequencing libraries
+- Optimized for Illumina NGS platforms
++ Focuses on fragments on 3’ end, enabling differential expression analysis with fewer reads
++ Faster and more affordable analysis
+- Low throughput (only generates library for up to 100 cells)
+      Source: DeciBio Analysis 105 |
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Takara Bio USA has a full suite of SCA offerings including its ICELL8 Single-Cell System and libraries for transcriptomic analysis (4 of 4)
+Additional Single-Cell Analysis Offerings
+       Offering
+SMART-Seq® HT Kit
+SMART-Seq Single Cell Kit
+SMARTer Human scTCR a/b Profiling Kit
+Image
+   Description
+• Library preparation kit that uses oligo(dT) priming to generate cDNA from 1-100 cells
+• HT PLUS kit also includes UDI plates to generate Illumina-compatible libraries
+• Single-tube protocol for convenience
+• Reagents for generating libraries for transcriptome analysis (RNA-seq) from single-cells or ultra-low RNA input
+• V4 update focuses on improving locked nucleic acid technology (LNA)
+• Single-tube protocol for convenience
+• Library preparation kit that profiles alpha- beta pairing of TCR from single cells for insight on antigen recognition
+• Performs SMART cDNA synthesis to condense 96 samples into 12 pods for sequencing; further multiplexing occurs to run samples in a single flow-cell lane
+Competitive Analysis
++ SMART technology ensures full-length, unbiased mRNA coverage
+- Low throughput (only generates library for up to 100 cells)
++ Very sensitive
++ SMART technology ensures full-length,
+unbiased mRNA coverage
+- Optimized only for Illumina or Ion NGS platforms
++ More affordable than non-multiplex scTCR a/b profiling
+- Requires cell sorting upstream and Illumina sequencing downstream
+     Source: DeciBio Analysis 106 |
+ Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+|
+  107
+DRAFT
+  Confidential | ©2023 DeciBio. All rights reserved.
+DeciBio’s mission is to provide the market intelligence and strategic insights that drive disruption and innovation in precision medicine
+|
+ 108
+DRAFT
+   Precision medicine is a complex, rapidly-evolving, and interconnected field; understanding the market dynamics requires focus and deep participation
+      Digital Health
+Pharma
+Why DeciBio?
+DeciBio’s focus and technical expertise enable us to identify and understand the connections and forces, both subtle and significant, that influence the precision medicine landscape
+We are more than industry observers; we participate in the industry as facilitators of information and innovation throughout the landscape
+      Hospitals / Systems
+      Confidential | ©2023 DeciBio. All rights reserved.
+Research Tools
+Dx
+|
+ 109
+DRAFT
+  DeciBio engages with precision medicine stakeholders in multiple ways, by providing advisory services, proprietary data, and venture capital & support
+      •
+• Bespoke, comprehensive consulting • services to provide market clarity
+and inform strategic decisions
+Research and analysis is driven by first- • principles understanding of the technologies,
+their value propositions, and the needs and dynamics of the customer and the market
+Custom and off-the-shelf market intelligence and analytics tools and data sets to provide novel insights into market conditions
+Proprietary approaches for data capture automation and integration yield insights not readily observable via traditional research approaches
+Interactive interfaces and dynamic data sets that evolve with the market provide a more effective way to track and interrogate data to drive insights
+•
+•
+Strategic advisory and capital
+contributions for pre-series A precision medicine startups
+Support in product and corporate strategy, application identification, market forecasting, and executive team build-out
+Access to other strategic advisors and other investors to help scaling from pre- commercial through early commercialization
+CONSULTING ANALYTICS VENTURES
+    •
+Projects are executed by a team • passionate about the life sciences
+market – 100% have life sciences
+degrees
+•
+ Through these endeavors, DeciBio captures a unique and comprehensive perspective that spans the entire precision medicine ecosystem and value chain, allowing us to deliver novel insights and strategies for our clients
+|
+ Confidential | ©2023 DeciBio. All rights reserved.
+110
+DRAFT
+  DeciBio has expertise across the entire precision medicine spectrum, supporting clients with a variety of strategic and market intelligence needs
+     Services and Capabilities
+Research Tools / Biomarkers / Biopharma Services Diagnostics / CDx
+• Market sizing, segmentation and growth assessment
+• Market trends and voice-of-customer research
+• Technology and competitor landscape analysis / CI
+• • •
+Health Data / Drug / Diagnostic Digital Health Commercialization
+Portfolio strategy and product profile / specification analysis Opportunity assessment / commercial due diligence (M&A) KOL mapping
+    • Application identification
+• Customer / champion mapping
+• Next gen. sequencing (NGS)
+• Patient / Dx journey mapping • • CDx launch strategy •
+• Biomarkers / diagnostics • (IHC, PCR, NGS, ISH, • immunoassay, mass spec.) •
+• Early detection / screening
+• MRD
+• Clinical genomics (e.g., comprehensive genomic profiling, liquid biopsy)
+RWD asset valuation Clinico-data partnership eval.
+Real-world data / evidence Digital biomarkers
+Health IT platforms (e.g., clinical decision support, tumor board tools, clinical trial optimization tools)
+• Go-to-market strategy • Publication planning
+• Cell and gene therapy manufacturing
+• Companion diagnostics
+• Diagnostic pricing strategy • Diagnostic reimbursement
+DeciBio’s work is therapy / disease area agnostic
+    Example • Areas of
+Subject Matter Expertise*
+Select Clients*
+Note: * Not exhaustive
+“Omics” (e.g., proteomics,
+genomics, cellomics)
+• Spatial / multiomics
+• Digital pathology
+• Single-cell analyses
+• Disruptive technologies
+                      |
+ Confidential | ©2023 DeciBio. All rights reserved.
+111
+DRAFT
+  DeciBio is led by seasoned advisors whose careers have been dedicated to the life sciences industry
+     Stephane Budel, Ph.D.
+Founding Partner
+Rx Tools | IVD | Disruptive Techs
+Stephane specializes in the commercialization of novel and disruptive technologies in the precision medicine market. He has supported clients facing a broad range of challenging business issues, including product specification strategy and commercial due diligence.
+David Cavanaugh, MBA
+Founding Partner IVD | Health IT | Pharma
+David specializes in assisting clients with opportunity identification, franchise expansion, growth strategy, and new product developments. David has extensive clinical testing experience, including projects optimizing market entry and product specification strategies for novel technologies.
+Andrew Aijian, Ph.D.
+Partner
+Dx & Clinical Tech | Pharma
+Andrew specializes in the development, commercialization, and utilization of research tools and diagnostics across the entire precision medicine spectrum, from early discovery through the patient journey. Andrew works to reduce the barriers to innovation between precision medicine stakeholders.
+Miguel Edwards, Ph.D.
+Partner
+Novel Rx Tools | MDx
+Miguel specializes in the development, commercialization and application of emerging tools in basic research through clinical diagnostics. Miguel has extensive experience helping clients refine product specifications, identify target markets, customers and appropriate business models.
+Steve Beuchaw, MBA
+Partner
+Rx Tools | MDx | Corp Dev
+Steve concentrates on research tools and diagnostics, with an emphasis on strategic transitions, transaction evaluation, and competitive assessments. Steve’s background in corporate development and as a Wall Street analyst gives him a unique lens for evaluating dynamic situations.
+ DeciBio partners are supported by a first-class team of consultants and data analytics experts who all have life sciences backgrounds and can speak the language of precision medicine
+Confidential | ©2023 DeciBio. All rights reserved.
+|
+ 112
+DRAFT
+  DeciBio’s consulting engagements are anchored on comprehensive market research; DeciBio excels in assessing technical, complex, & nascent markets
+Common Elements of a DeciBio Consulting Engagement
+   Secondary Research
+• Aggregate and analyze relevant information from multiple sources (e.g., public filings, earnings transcripts, analyst notes, publication / trial databases, conference publications, etc.) to establish a comprehensive fact-base
+  DeciBio has built an expert network of research, clinical, and commercial KOLs from which we can rapidly capture insights; this proprietary network accelerates primary research and is available in a self-service model
+ Primary Research
+• Identify and interview / survey the most relevant research, clinical, regulatory, reimbursement, commercial, and / or technology experts for each project, seeking to capture data, as well as first-principles thought processes and feedback
+    Quantitative Modelling
+• Conduct detailed quantitative analyses (e.g., market models / forecasts, NPV estimates, conjoint analyses, chart audit surveys, ATUs / trackers, etc.) to yield rigorously validated market / customer / product metrics
+   Synthesis and Implications
+• Synthesize all research and modelling outputs into a set of specific and actionable implications and recommendations for our clients
+   While these elements are common to many consulting engagements, DeciBio crafts a custom research and analysis strategy for each engagement to provide the most suitable approach for each client’s specific needs
+ |
+ Confidential | ©2023 DeciBio. All rights reserved.
+113
+DRAFT
+  Primary research is one of DeciBio’s key strengths; we leverage our expertise to enlist the most relevant experts to conduct detailed, targeted research
+DeciBio Primary Research Strengths
+1. Precise and Technical Primary Research
+• Each DeciBio consultant has a life sciences or health degree and knows the language of precision medicine, enabling in-depth discussions on complex technological and clinical topics
+• DeciBio’s technical expertise allows us to identify and recruit the most relevant primary research participants
+3. Highly Engaged KOL Network
+• While primary research always includes some custom sourcing, DeciBio has cultivated a network of KOLs who participate regularly in DeciBio primary research and can be engaged on short notice to facilitate rapid response
+2. Versatile Primary Research Capabilities
+• DeciBio is experienced in various qual. and quant. primary research approaches (e.g., phone interviews, surveys, conjoint analyses, focus groups, chart audits, ATUs / trackers), and knows when to deploy different methods to capture the best information
+Global Reach
+• DeciBio routinely conducts primary market research with stakeholders around the globe, leveraging both in-house language capabilities as well as on-the-ground affiliates to conduct in-person research as needed
+        4.
+|
+ Confidential | ©2023 DeciBio. All rights reserved.
+114
+DRAFT
+ DeciBio’s primary market research spans various stakeholder groups who can provide unique and valuable perspectives into precision medicine
+DeciBio Primary Research Participants – Example Roles / Titles
+DeciBio conducted >2,000 interviews and surveys with life science experts throughout 2021
+Life Science Industry R&D Leadership
+• Director of R&D (biopharma)
+• Head of Translational Oncology • VP of Medical Affairs
+• Chief Strategy Officer
+• Director of Biomarker Sciences
+Patients / Patient Advocacy
+• Founder / CEO (Patient Advocacy Group)
+• Current / former patients of various conditions or diseases
+     • • • • •
+Clinicians
+Department Head • Chief Oncologist • Staff Pulmonologist • Chair of Radiology Dept. • Gastroenterologist •
+Academic Researchers
+Principal Investigator Department Head – Immunology Professor of Pathology Professor Physiology
+Director of Proteomics Core Lab
+Pathologists / Lab Directors
+Director, Molecular Pathology Lab Chair of Anatomic Pathology Dept. Molecular pathologist
+Laboratory Manager
+Laboratory Technician
+Hospital Administrators
+Chief Clinical Informatics Officer Chief Innovation Officer
+Chief Clinical Officer
+Chief Health Information Officer
+Practice Managers / Support
+• Nurse Navigator
+• Oncology Practice Manager
+• Patient Advocate / Care Coordinator • Tumor board / IDT Coordinator
+• Chief Nursing Officer
+Life Science / Healthcare Investors
+• Fund Manager – Life Sciences • Partner, Venture Capital
+• Private Equity Associate
+• Investment Partner
+• Managing Director, Global Equities
+    • • • • •
+• • • •
+|
+ ©2022 DeciBio. All rights reserved.
+115
+  DeciBio’s market intelligence offerings include off-the-shelf reports and databases and custom solutions for automated, scalable market analysis
+ Market Reports:
+• Syndicated reports covering the market size, segmentation, and key trends in research diagnostics fields of interest
+• Updated every 1- 3 yrs
+• Current reports cover the NGS, Single-Cell Omics, and Liquid Biopsy markets
+Learn more here
+  Clinical Diagnostic Databases:
+• Databases of clinical Dx testing volumes and assay / instrument / lab utilization gathered from a network of 100s – 1,000s of hospital labs in the U.S.
+• Updated on a quarterly basis
+• Current databases include oncology Dx, NGS*, infectious disease diagnostics, and SARS-CoV-2 testing
+Learn more here
+  BioTrack:
+• SaaS tool that integrates news, research, and clinical content for any topic of interest into a searchable, prioritized feed
+• Supports sharing, annotation, newsletter, and alerts
+• Custom built and optimized for each client
+Learn more here
+  Dexter:
+• Online portal for accessing DeciBio’s expert network of KOLs for conducting rapid, efficient primary market research
+• Primary research can be self- directed or facilitated by DeciBio
+• Experts available in all fields; custom recruiting also available
+Learn more here
+  MarketBook
+• A comprehensive, interactive model of the entire research tools landscape, covering genomics, proteomics, and cellomics markets
+• The model is available in via an online portal to enable granular segmentation of the market
+Learn more here
+  Discovery Portals:
+• Database and interactive dashboard for identifying KOLs and impact trends from aggregated meta-data (e.g., author, institution / affiliation, impact data (e.g., h-index, impact factor, Altmetric) extracted from all publications identified for any topic of interest
+ I/O BioMAP:
+• Database of biomarkers and technologies identified from immuno-oncology clinical trials
+• Updated quarterly Learn more here
+  Any of these data offerings can be integrated into the scope of a custom consulting engagement to generate cost synergies
+Research oriented Clinically oriented
+Subject agnostic
+|
+ Note:
+* New offering; N = 50 U.S. lab respondents
+116
+Confidential | ©2023 DeciBio. All rights reserved.
+DRAFT
+  DeciBio has conducted multiple global precision medicine projects, and has expertise in the biomarker and diagnostics landscapes
+Examples of Recent Precision Medicine Consulting Engagements (1 of 2)
+    Cancer Immunotherapy Biomarker Market Opportunity
+• Conducted 35 interviews with oncologists, pathologists, and KOLs to understand current and future utilization of existing and emerging biomarkers for immunotherapy drugs
+• Analyzed ~170 trials to identify clinical biomarkers by type, purpose, & tech.
+• Built a comprehensive, dynamic model to estimate the market for I/O biomarkers
+in various market development scenarios
+Digital Pathology & GEP Landscape Reviews
+• Performed secondary research (publication, clinical trial, and commercial analysis) to create a fact-base of the key providers and users of digital pathology and, in a follow-up project, gene expression profiling (GEP)
+• Identified and prioritized potential DP and GEP partners
+• Confirmed client’s internal perspectives on optimal CDx partners and
+recommended potential partners for future endeavors
+Global Clinical Oncology NGS Forecast
+• Interviewed > 170 oncologists, pathologists, and lab directors across the U.S., Europe, China, and Brazil to estimate the current and future NGS adoption for cancer testing (including both tissue and liquid biopsy testing)
+• Developed a comprehensive model to estimate potential adoption and penetration rates under various scenarios
+• Performed follow-up project to drive towards internal consensus on client expectations on the future
+Next-Generation Dx / CDx Adoption Pulse Survey
+• Surveyed ~75 pathologists and ~70 oncologists to assess the current and expected future adoption of emerging oncology biomarkers and technologies
+• Ascertained which biomarkers and technologies are more likely than others to be centralized vs. decentralized
+• Develop dynamic web-based tool for visualization and shared findings to a group of CDx KOLs at a CDx conference
+    Confidential | ©2023 DeciBio. All rights reserved.
+|
+ 117
+DRAFT
+  DeciBio has conducted multiple global precision medicine projects, and has expertise in the biomarker and diagnostics landscapes
+Examples of Recent Precision Medicine Consulting Engagements (2 of 2)
+    Strategic Product Roadmap, LBx Early Cancer Detection
+• Interviewed 30 oncologists, PCPs, and pathologists to understand the clinical need and adoptability of 15 potential early cancer detection screens
+• Assessed the market potential, competitive and regulatory landscapes for each test via secondary and primary research
+• DeciBio recommended an indication and location in patient workflow well suited for assay development
+Multiplex Spatial Tissue Analysis Landscaping
+• Using company product data, publication analysis, and commercial data, characterized the current and future multiplex tissue opportunity and landscape for R&D and CDx development (U.S. and EU)
+• Interviewed 25 biopharma R&D stakeholders and KOLs to understand the expected adoption of multiplex tissue analysis, as well as any trends and moderators that exist in the space
+PD-L1 Testing Landscape in EU and LATAM
+• Surveyed 161 PD-L1 testing experts interviewed 25 oncologists and pathologists to gain a granular understanding of PD-L1 testing workflow, trends, moderators and product preference in the EU and LATAM
+• Provided granular market insights into PD-L1 testing (i.e., testing location, sample type, clone / assay preference, biomarkers run with PD-L1, indications, associated therapies and more) within the EU and LATAM
+RNA Oncology Biomarker Landscape Review
+• Interviewed 30 oncologists and pathologists to understand how RNA is used in oncology, key RNS markers, and how RNA differentiates CGP vendors
+• Analyzed ~300 conference abstracts, >580 clinical trials, and dozens of commercial RNA panels to understand current clinical use of RNA
+• Identified the impact an RNA offering would have if added to a commercial CGP assay, and which markers should be included
+    Confidential | ©2023 DeciBio. All rights reserved.
+|
+ 118
+DRAFT
+   Agenda
+o Introduction&Methodology o ExecutiveSummary
+o PublicationAnalysis
+o MarketAnalysis
+o PrimaryMarketResearch
+o CompetitiveAnalysis
+o Appendix
+▪ Intro to DeciBio
+▪ Dexter Expert Network Confidential | ©2023 DeciBio. All rights reserved.
+|
+DRAFT
+RB added
+  119
+  Primary insights included in the report were generated using Dexter – a self service precision medicine & life science expert network marketplace
+ Confidential | ©2023 DeciBio. All rights reserved.
+|
+ 120
+DRAFT
+  Recent Projects
+    |
+ ©2022 DeciBio. All rights reserved.
+121
+DRAFT
+  Recent Projects
+    |
+ ©2022 DeciBio. All rights reserved.
+122
+DRAFT
